@@ -6,5 +6,5 @@
 
 ## Bijdragers album amicorum Jacob Heyblocq - Mockups integratie kb.nl 
 * **Smoelenboek**: https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/mockups_kb.nl/bijdragers/bijdragers-smoelenboek.html 
-* **Lijst: https**://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/mockups_kb.nl/bijdragers/bijdragers-lijst.html 
+* **Lijst**: https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/mockups_kb.nl/bijdragers/bijdragers-lijst.html 
 * **Beroepenwolk**: https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/mockups_kb.nl/bijdragers/bijdragers-beroepen.html 
