@@ -8,6 +8,7 @@
 ### Bijdragers ###
 
 #### Smoelenboek o.b.v. Wikimedia Commons API ####
+<image src="/images/bijdragersAAJH-smoelenboek-CommmonsAPI - 31-12-2020.png" width="500"/><br clear="all"/>
 * **HTML-fotogalerij/smoelenboek**: https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/bijdragersAAJH-smoelenboek-CommmonsAPI.html 
 * **[Python-script](https://github.com/KBNLwikimedia/AlbumAmicorumJacobHeyblocq/blob/master/reuse/scripts/bijdragersAAJH-smoelenboek-CommonsAPI.py)** om bovenstaande HTML-pagina te genereren  
 * **Context**: https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Topstukken/Hergebruik/Voorbeelden#2)_Commons_API
