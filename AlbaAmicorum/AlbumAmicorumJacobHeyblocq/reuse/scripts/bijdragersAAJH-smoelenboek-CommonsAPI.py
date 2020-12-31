@@ -35,11 +35,14 @@ HTMLtemplate ="""
 <h1>Smoelenboek bijdragers <a href="https://www.kb.nl/themas/vriendenboeken/verwoede-verzamelaars/jacob-heyblocqs-vriendenboek" 
 target="_blank">Vriendenboek Jacob Heyblocq</a> - Demo o.b.v. Wikimedia Commons API</h1>
 <ul>
-<li>Uitleg & context: <a href="https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Topstukken
+<li>Category op Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/Category:Contributors_to_the_album_amicorum_Jacobus_Heyblocq" 
+target="_blank">https://commons.wikimedia.org/wiki/Category:Contributors_to_the_album_amicorum_Jacobus_Heyblocq</a></li>
+<li>Uitleg & context in het Nederlands, op Wikipedia: <a href="https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Topstukken
 /Hergebruik/Voorbeelden#2)_Commons_API" target="_blank">https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Topstukken
 /Hergebruik/Voorbeelden#2)_Commons_API</a></li>
-<li>Zie ook: <a href="https://commons.wikimedia.org/wiki/Category:Contributors_to_the_album_amicorum_Jacobus_Heyblocq" 
-target="_blank">https://commons.wikimedia.org/wiki/Category:Contributors_to_the_album_amicorum_Jacobus_Heyblocq</a></li>
+<li>Uitleg & context in het Engels, op Github:  <a href="https://github.com/KBNLwikimedia/kbnlwikimedia.github.io/blob/master/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse" 
+target="_blank">https://github.com/KBNLwikimedia/kbnlwikimedia.github.io/blob/master/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse</a></li>
+
 </ul>
 <div class="fiveColumnGrid">
 {gallery}
