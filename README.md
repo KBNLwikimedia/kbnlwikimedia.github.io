@@ -8,9 +8,9 @@
 ### Bijdragers ###
 
 ### Smoelenboek o.b.v. Wikimedia Commnons API ###
-* https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/bijdragersAAJH-smoelenboek-CommmonsAPI.html 
-* [Python-script](https://github.com/KBNLwikimedia/AlbumAmicorumJacobHeyblocq/blob/master/reuse/scripts/bijdragersAAJH-smoelenboek-CommonsAPI.py) om bovenstaande HTML-pagina te genereren  
-* Zie voor context: https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Topstukken/Hergebruik/Voorbeelden#2)_Commons_API
+* **HTML-fotogalerij/smoelenboek**: https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/bijdragersAAJH-smoelenboek-CommmonsAPI.html 
+* **[Python-script](https://github.com/KBNLwikimedia/AlbumAmicorumJacobHeyblocq/blob/master/reuse/scripts/bijdragersAAJH-smoelenboek-CommonsAPI.py)** om bovenstaande HTML-pagina te genereren  
+* **Context**: https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Topstukken/Hergebruik/Voorbeelden#2)_Commons_API
 
 
 #### Mockups integratie kb.nl ### o.b.v. HTML-iframe met SPARQL-query in Wikidata
