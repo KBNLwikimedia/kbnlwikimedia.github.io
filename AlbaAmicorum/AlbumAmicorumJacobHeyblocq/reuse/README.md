@@ -10,7 +10,7 @@ Project page: https://www.wikidata.org/wiki/Wikidata:WikiProject_Alba_amicorum_N
 
 [<img src="https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/images/Contributors to the album amicorum Jacobus Heyblocq - Smoelenboek - CommmonsAPI - 31-12-2020.png" width="800" align="left"/>](https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/bijdragersAAJH-smoelenboek-CommmonsAPI.html)
 
-<br claer="all"/>
+<br clear="all"/>
 
 #### Mockups integration kb.nl based on HTML iframe with SPARQL-query in Wikidata
 * [Image gallery / smoelenboek of contributors](https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/bijdragersAAJH-smoelenboek-SparqlHTMLembed-mockupkbnl.html) 
