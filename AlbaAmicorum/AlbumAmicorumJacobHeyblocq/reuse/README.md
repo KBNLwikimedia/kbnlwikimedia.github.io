@@ -1,4 +1,5 @@
 # Album amicorum Jacob Heyblocq
+Project page: https://www.wikidata.org/wiki/Wikidata:WikiProject_Alba_amicorum_National_Library_of_the_Netherlands/Jacob_Heyblocq
 ## Reusing content in Wikimedia infrastructure (Wikidata, Wikimedia Commons, Wikipedia)
 ### Contributors
 **Context** (in Dutch): https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Topstukken/Hergebruik/Voorbeelden#Smoelenboek_van_de_bijdragers_aan_het_vriendenboek_van_Jacob_Heyblocq
