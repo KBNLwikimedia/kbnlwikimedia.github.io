@@ -12,7 +12,7 @@ Project page: https://www.wikidata.org/wiki/Wikidata:WikiProject_Alba_amicorum_N
 
 <br clear="all"/>
 
-#### Mockups integration kb.nl based on HTML iframe with SPARQL-query in Wikidata
+#### Mockups for integrating Wikidata SPARQL query results into kb.nl using HTML iframe
 * [Image gallery / smoelenboek of contributors](https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/bijdragersAAJH-smoelenboek-SparqlHTMLembed-mockupkbnl.html) 
 * [List of contributors](https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/bijdragersAAJH-lijst-SparqlHTMLembed-mockupkbnl.html)
 * [Occupations cloud of contributors](https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/bijdragersAAJH-beroepen-SparqlHTMLembed-mockupkbnl.html) 
