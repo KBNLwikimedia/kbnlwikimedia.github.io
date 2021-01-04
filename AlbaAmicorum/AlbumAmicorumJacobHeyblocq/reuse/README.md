@@ -18,10 +18,37 @@ From the [JSON response of the API](https://commons.wikimedia.org/w/api.php?acti
 
 Disadvantage of this approach: Wikimedians can adjust categorizations on Commons as they see fit. As a result, images can disappear from the above API call, or multiple images of 1 particular contributor can appear in the JSON response. In other words, the number of images in the resulting facebook can change, without one noticing.
 
-### 2) SPARQL-query op Wikidata
+### 2) SPARQL query on Wikidata
+In the Wikidata item *[Album amicorum of Jacobus Heyblocq (1623-1690), rector of the Latin school in Amsterdam (Q72752496)](https://www.wikidata.org/wiki/Q72752496)*, all contributors to this album are included in the property [contributor to the creative work or subject (P767)](https://www.wikidata.org/wiki/Property:P767). As a result, we can gather all those persons using [the SPARQL query below](https://w.wiki/tBE) and then display their images/faces in a ready-made gallery in the Wikidata interface
+
+```
+#defaultView:ImageGrid{"hide":["?gender","?portrait"]}
+SELECT DISTINCT ?contributorDescription ?contributor ?contributorLabel ?gender ?portrait WHERE { 
+  BIND(wd:Q72752496 as ?album)
+  ?album wdt:P767 ?contributor.
+  ?contributor wdt:P21 ?gender.
+  OPTIONAL{?contributor wdt:P18 ?image.}
+  
+  BIND (wd:Q82985930 as ?maledummy) 
+  BIND (wd:Q82992173 as ?femaledummy)  
+  ?maledummy wdt:P18 ?maledummyimage.
+  ?femaledummy wdt:P18 ?femaledummyimage.
+  BIND(IF(?gender=wd:Q6581072,?femaledummyimage,?maledummyimage) as ?dummyimage). #Choose the dummyimage dependent on gender (female/male)
+  BIND(IF(BOUND(?image), ?image,?dummyimage) as ?portrait). #If no image is known, substitute the dummy image
+  
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,nl". }
+} 
+ORDER BY DESC (?image)
+```
+Here, via [Q82985930](https://www.wikidata.org/wiki/Q82985930) + *?maledummyimage* and [Q82992173](https://www.wikidata.org/wiki/Q82992173) + *?femaledummyimage*, male and female dummy images are inserted for the male resp. female album contributors whose images are not known in Wikimedia Commons.
+
+The 'smoelenboek' as a result of the above query looks like this:
+
+[<img src="https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/images/Contributors to the album amicorum Jacobus Heyblocq - Smoelenboek - Wikidata SPARQL gallery - 08-12-2020.PNG" width="800" align="left"/>](https://w.wiki/phx)
+
 <br clear="all"/>
 
-### 3) HTML image gallery/smoelenboek based on the Wikidata SPARQL API with JSON-response
+### 3) HTML image gallery/smoelenboek based on the Wikidata SPARQL API with JSON response
 When runnuing a SPARQL query in the Wikidata query interface, we have the result displayed directly (out of the box) in that interface, as shown above. However, we can also request the search result as a JSON response and then build a custom/DIY interface with it ourselves. We do this as follows:
 
 1) Using [the SPARQL query below](https://w.wiki/soe), we first request some data about the album contributors directly in the Wikidata interface
