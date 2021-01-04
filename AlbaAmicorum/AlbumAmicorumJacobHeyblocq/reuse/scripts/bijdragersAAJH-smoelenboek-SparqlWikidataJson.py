@@ -1,5 +1,5 @@
 # Basic script for
-# https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Topstukken/Hergebruik/Voorbeelden#4)_SPARQL-query_op_Wikidata_met_JSON-respons
+# https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Topstukken/Hergebruik/Voorbeelden/Smoelenboek_bijdragers_AAJH#4)_SPARQL-query_op_Wikidata_met_JSON-respons
 
 # We request data about the contributors to the album amicorum from the SPARQL endpoint on Wikidata via
 # https://w.wiki/soe
