@@ -49,7 +49,6 @@ Here, via [Q82985930](https://www.wikidata.org/wiki/Q82985930) + *?maledummyimag
 The 'smoelenboek' as a result of the above query looks like this:
 
 <kbd>[<img src="https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/images/Contributors to the album amicorum Jacobus Heyblocq - Smoelenboek - Wikidata SPARQL gallery - 08-12-2020.PNG" width="800" align="left"/>](https://w.wiki/phx)</kbd>
-
 <br clear="all"/>
 
 ### 3) HTML image gallery/smoelenboek based on the Wikidata SPARQL API with JSON response
@@ -85,9 +84,30 @@ of the contributors, because we want to display this data in the DIY interface.
 
 <kbd>[<img src="https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/images/Contributors to the album amicorum Jacobus Heyblocq - Smoelenboek - SparqlWikidataJson - 01-01-2021.png" width="800" align="left"/>](https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/bijdragersAAJH-smoelenboek-SparqlWikidataJson.html)</kbd>
 
-### 4) Mockups for integrating Wikidata SPARQL query results into kb.nl using HTML iframe
-* [Image gallery / smoelenboek of contributors](https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/bijdragersAAJH-smoelenboek-SparqlHTMLembed-mockupkbnl.html) 
-* [List of contributors](https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/bijdragersAAJH-lijst-SparqlHTMLembed-mockupkbnl.html)
-* [Occupations cloud of contributors](https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/bijdragersAAJH-beroepen-SparqlHTMLembed-mockupkbnl.html) 
+### 4) Wikidata SPARQL + HTML-embed via iframe
+The facebook made above (see 2) can also be embedded in an HTML page by means of an HTML iframe. The basic code for that looks like this:
 
-<kbd>[<img src="https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/images/Contributors to the album amicorum Jacobus Heyblocq - Smoelenboek - SparqlHTMLembed-mockupkbnl - 31-12-2020.png" height="250" align="left"/>](https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/bijdragersAAJH-smoelenboek-SparqlHTMLembed-mockupkbnl.html) [<img src="https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/images/Contributors to the album amicorum Jacobus Heyblocq - Lijst - SparqlHTMLembed-mockupkbnl - 31-12-2020.png" height="250"/>](https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/bijdragersAAJH-lijst-SparqlHTMLembed-mockupkbnl.html) [<img src="https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/images/Contributors to the album amicorum Jacobus Heyblocq - Beroepenwolk - SparqlHTMLembed-mockupkbnl - 31-12-2020.png" height="250"/>](https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/bijdragersAAJH-beroepen-SparqlHTMLembed-mockupkbnl.html)</kbd>
+  ```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Smoelenboek van de bijdragers aan het vriendenboek van Jacob Heyblocq - Wikidata SPARQL + HTML iframe</title>
+    </head>
+    <body>
+    	<h1>Smoelenboek van de bijdragers aan het vriendenboek van Jacob Heyblocq - Wikidata SPARQL + HTML iframe</h1>
+    	<iframe style="position: absolute; height: 100%; width: 100%; border: none" src="https://query.wikidata.org/embed.html#%23defaultView%3AImageGrid%7B%22hide%22%3A%5B%22%3Fgender%22%2C%22%3Fportrait%22%5D%7D%0ASELECT%20DISTINCT%20%3FcontributorDescription%20%3Fcontributor%20%3FcontributorLabel%20%3Fgender%20%3Fportrait%20WHERE%20%7B%20%0A%20%20BIND(wd%3AQ72752496%20as%20%3Falbum)%0A%20%0A%20%20%3Falbum%20wdt%3AP767%20%3Fcontributor.%0A%20%20%3Fcontributor%20wdt%3AP21%20%3Fgender.%0A%20%20OPTIONAL%7B%3Fcontributor%20wdt%3AP18%20%3Fimage.%7D%0A%0A%20%20BIND%20(wd%3AQ82985930%20as%20%3Fmaledummy)%20%0A%20%20BIND%20(wd%3AQ82992173%20as%20%3Ffemaledummy)%20%20%0A%20%20%3Fmaledummy%20wdt%3AP18%20%3Fmaledummyimage.%0A%20%20%3Ffemaledummy%20wdt%3AP18%20%3Ffemaledummyimage.%0A%20%20BIND(IF(%3Fgender%3Dwd%3AQ6581072%2C%3Ffemaledummyimage%2C%3Fmaledummyimage)%20as%20%3Fdummyimage).%20%23Choose%20the%20dummyimage%20dependent%20on%20gender%20(female%2Fmale)%0A%20%20%20%0A%20%20BIND(IF(BOUND(%3Fimage)%2C%20%3Fimage%2C%3Fdummyimage)%20as%20%3Fportrait).%20%23If%20no%20image%20is%20known%2C%20substitute%20the%20dummy%20image%0A%20%20%20%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cnl%22.%20%7D%0A%7D%20%0AORDER%20BY%20DESC%20(%3Fimage)" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </body>
+</html>
+```
+This gives a [plain, unstyled smoelenboek](https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/bijdragersAAJH-smoelenboek-SparqlHTMLembed-plain.html) looking like this: 
+
+<kbd>[<img src="https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/images/Contributors to the album amicorum Jacobus Heyblocq - Smoelenboek - SparqlHTMLembed-plain - 04-01-2021.png" width="800" align="left"/>](https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/bijdragersAAJH-smoelenboek-SparqlHTMLembed-plain.html)</kbd>
+
+#### kb.nl styling
+We can further develop this HTML iframe approach into a design that fits seamlessly into [the pages about the album on the KB website](https://www.kb.nl/themas/vriendenboeken/verwoede-verzamelaars/jacob-heyblocqs-vriendenboek), resulting into [an HTML-page](https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/bijdragersAAJH-smoelenboek-SparqlHTMLembed-mockupkbnl.html) looking like this:
+
+<kbd>[<img src="https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/images/Contributors to the album amicorum Jacobus Heyblocq - Smoelenboek - SparqlHTMLembed-mockupkbnl - 31-12-2020.png" width="800" align="left"/>](https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/bijdragersAAJH-smoelenboek-SparqlHTMLembed-mockupkbnl.html)</kbd>
+
+In addition to this image gallery, we can also make [a list](https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/bijdragersAAJH-lijst-SparqlHTMLembed-mockupkbnl.html) and a [cloud of professions](https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/bijdragersAAJH-beroepen-SparqlHTMLembed-mockupkbnl.html) of the album contributors in the design of kb.nl, again based on embedded HTML iframes containing Wikidata SPARQL queries:
+
+<kbd>[<img src="https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/images/Contributors to the album amicorum Jacobus Heyblocq - Lijst - SparqlHTMLembed-mockupkbnl - 31-12-2020.png" height="250"/>](https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/bijdragersAAJH-lijst-SparqlHTMLembed-mockupkbnl.html) [<img src="https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/images/Contributors to the album amicorum Jacobus Heyblocq - Beroepenwolk - SparqlHTMLembed-mockupkbnl - 31-12-2020.png" height="250"/>](https://kbnlwikimedia.github.io/AlbaAmicorum/AlbumAmicorumJacobHeyblocq/reuse/bijdragersAAJH-beroepen-SparqlHTMLembed-mockupkbnl.html)</kbd>
