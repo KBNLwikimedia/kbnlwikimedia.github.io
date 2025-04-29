@@ -24,7 +24,7 @@ In addition to the above materials here on Github, there is also KB-Wikimedia co
 
 ## Collection images
 - [Overview of KB image and media files](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek/Media_overview) on Wikimedia Commons
-- [Chronological overview of media donations](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek/Media_donations)
+  - [Chronological overview of media donations](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek/Media_donations)
 
 ## Presentations & publications
 - [Most recent presentations, articles, tutorials, manuals, courses, handouts, workhops, howto's, lessons, lectures, videos, papers etc](https://commons.wikimedia.org/wiki/Koninklijke_Bibliotheek/GLAM) about Wikipedia, Commons, Wikidata, Wikibase and GLAM-Wiki. 
