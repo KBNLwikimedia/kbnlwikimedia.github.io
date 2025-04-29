@@ -31,7 +31,7 @@ In addition to the above materials here on Github, there is also KB-Wikimedia co
   - Older publications (back to 2011) can be found on the [archive page](https://commons.wikimedia.org/wiki/Koninklijke_Bibliotheek/GLAM/Archive), sorted by year. 
 - [Presentations & publications on Zenodo](https://zenodo.org/search?page=1&size=20&q=creators.orcid:%220000-0002-9058-9941%22&sort=-publication_date)
 
-## KB pages on Wikimedia platforms
+## KB@Wikimedia platforms
 - [KB@Wikimedia Commons](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek) - provides an overview of media files, image donations, cases studies, stories, uptake & reuse metrics and other information related to the activities of the KB on Wikimedia Commons
 - [KB@Wikidata](https://www.wikidata.org/wiki/Wikidata:GLAM/Koninklijke_Bibliotheek_Nederland) - provides an overview of current, upcoming and possible future Wikidata and Wikibase activities, projects, ideas, experiments and opportunities for the KB. 
 - [KB@Dutch Wikipedia](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief) - provides an overview (in Dutch) of news, updates, projects, events, metrics and other information related to the collaboration between the KB and Dutch Wikipedia. 
