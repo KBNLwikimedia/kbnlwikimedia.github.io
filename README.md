@@ -11,7 +11,7 @@ Overview of [(data) stories](https://kbnlwikimedia.github.io/stories/index.html)
 Overview of [tools and scripts](https://kbnlwikimedia.github.io/tools/index.html) on Github related to the Wikimedia effort of the KB.
 
 ## Workshops and courses
-Overview of [workshop and course materials](https://kbnlwikimedia.github.io/workshops-courses/index.html) on Github related to the Wikimedia effort of the KB.
+Overview of [workshop and course materials](https://kbnlwikimedia.github.io/workshops-courses/index.html) hosted on Github related to the Wikimedia effort of the KB.
 
 ## Projects (mainly non-code)
 Overview of [Github repos](https://kbnlwikimedia.github.io/projects/index.html) for projects related to the collections of the KB. 

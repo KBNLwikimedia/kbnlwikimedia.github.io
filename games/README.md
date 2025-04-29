@@ -4,6 +4,6 @@
 <img src="../media/wikimedia-logos.png" align="right" width="300" hspace="0" align="left"/>
 <br clear="all"/>
 
-# Overview of Github-hosted games related to the Wikimedia effort of the KB.
+# Overview of games related to the Wikimedia effort of the KB.
 
 Wikifaces
