@@ -19,6 +19,9 @@ Overview of [Github repos](https://kbnlwikimedia.github.io/projects/index.html) 
 ## Games
 Overview of [Github-hosted games](https://kbnlwikimedia.github.io/games/index.html) related to the Wikimedia effort of the KB.
 
+---------------
+
+---------------
 
 # KB-Wikimedia materials elsewhere
 In addition to the above materials here on Github, there is also KB-Wikimedia content available on other platforms. These include:
