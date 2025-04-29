@@ -1,3 +1,5 @@
+[<< Back to homepage](https://kbnlwikimedia.github.io)
+
 # Overview of (data) stories related to the Wikimedia projects of the KB, national library of the Netherlands 
 
 <img src="../media/wmc-logo.jpg" align="right" width="120" hspace="30"/>
