@@ -56,7 +56,7 @@ In addition to the above materials here on Github, there is also KB-Wikimedia co
 * [Overview of KB image and media files](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek/Media_overview) on Wikimedia Commons
 * [Chronological overview of media donations](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek/Media_donations)
 
-<div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 1em;">
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 1em;">
   <img src="media/presentation-screen.svg" width="80" alt="Presentation icon" style="flex-shrink: 0;" />
 
   <div>
