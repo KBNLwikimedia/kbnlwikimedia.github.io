@@ -6,15 +6,23 @@
 
 # Overview of workshops and courses related to the Wikimedia effort of the KB
 
-## [Workshops and courses]()
+Zie die PDF die Shan heeft opgemaakt met het cursusaanmbod
+D:\KB-OPEN\PresentatiesOlaf\2024\Leren over Wikimedia & Co een catalogus met aanbod
+
 * https://github.com/KBNLwikimedia/Wikidata-General-Overview
+* 
 * https://github.com/KBNLwikimedia/Wikidata-KB-Overview
+* 
 * https://github.com/KBNLwikimedia/WikidataMapMakingWorkshop
 * Wikibase
+* 
 * https://github.com/KBNLwikimedia/Wikibase-resources
 * WikidataKB
 * Commons
+* 
 * https://github.com/KBNLwikimedia/OpenRefine-WikimediaCommons-Workshop
 * OpenRefine
+* 
 * https://github.com/KBNLwikimedia/OpenRefine-Introduction-Workshop
+* 
 * https://github.com/KBNLwikimedia/OpenRefine-WikimediaCommons-Workshop
