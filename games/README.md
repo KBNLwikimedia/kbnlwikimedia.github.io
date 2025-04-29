@@ -6,7 +6,7 @@
 
 <img src="../media/game-console-handheld.svg" align="left" width="100" hspace="20" vspace="10"/>
 
-# Overview of games related to the Wikimedia effort of the KB.
+# Overview of games related to the Wikimedia effort of the KB
 <br clear="all"/>
 
 Wikifaces

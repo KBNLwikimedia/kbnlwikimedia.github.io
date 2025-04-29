@@ -6,7 +6,7 @@
 
 <img src="../media/book-open-cover.svg" align="left" width="100" hspace="20" vspace="10"/>
 
-# Overview of (data) stories related to the Wikimedia effort of the KB.
+# Overview of (data) stories related to the Wikimedia effort of the KB
 <br clear="all"/>
 
 ## [Free to use? Exploring public domain claims in Wikimedia Commons files sourced from Delpher (May 2025)](https://kbnlwikimedia.github.io/wikimedia-commons_copyright-templates/stories/Free%20to%20use%20-%20Exploring%20public%20domain%20claims%20in%20Wikimedia%20Commons%20files%20sourced%20from%20Delpher%20(May%202025).html)
