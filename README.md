@@ -56,12 +56,18 @@ In addition to the above materials here on Github, there is also KB-Wikimedia co
 * [Overview of KB image and media files](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek/Media_overview) on Wikimedia Commons
 * [Chronological overview of media donations](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek/Media_donations)
 
-<img src="media/presentation-screen.svg" align="left" width="80" hspace="20" vspace="20"/>
+<div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 1em;">
+  <img src="media/presentation-screen.svg" width="80" alt="Presentation icon" style="flex-shrink: 0;" />
 
-## Presentations & publications
-- [Most recent presentations, articles, tutorials, manuals, courses, handouts, workhops, howto's, lessons, lectures, videos, papers etc](https://commons.wikimedia.org/wiki/Koninklijke_Bibliotheek/GLAM) about Wikipedia, Commons, Wikidata, Wikibase and GLAM-Wiki. 
- - Older publications (back to 2011) can be found on the [archive page](https://commons.wikimedia.org/wiki/Koninklijke_Bibliotheek/GLAM/Archive), sorted by year. 
-- [Presentations & publications on Zenodo](https://zenodo.org/search?page=1&size=20&q=creators.orcid:%220000-0002-9058-9941%22&sort=-publication_date)
+  <div>
+     <strong style="font-size: 1.7em;">Presentations & publications</strong>
+     <ul style="margin: 0.3em 0 0 1em; padding: 0;">
+      <li><a href="https://commons.wikimedia.org/wiki/Koninklijke_Bibliotheek/GLAM">Most recent presentations, articles, tutorials, manuals, courses, handouts, workhops, howto's, lessons, lectures, videos, papers etc</a> about Wikipedia, Commons, Wikidata, Wikibase and GLAM-Wiki. </li>
+      <li>Older publications (back to 2011) can be found on the <a href="https://commons.wikimedia.org/wiki/Koninklijke_Bibliotheek/GLAM/Archive">archive page</a>, sorted by year. </li>
+      <li><a href="https://zenodo.org/search?page=1&size=20&q=creators.orcid:%220000-0002-9058-9941%22&sort=-publication_date">Presentations & publications on Zenodo</a></li>
+    </ul>
+  </div>
+</div>
 
 <img src="media/at.svg" align="left" width="80" hspace="20" vspace="20"/>
 
@@ -70,5 +76,6 @@ In addition to the above materials here on Github, there is also KB-Wikimedia co
 - [KB@Wikidata](https://www.wikidata.org/wiki/Wikidata:GLAM/Koninklijke_Bibliotheek_Nederland) - provides an overview of current, upcoming and possible future Wikidata and Wikibase activities, projects, ideas, experiments and opportunities for the KB. 
 - [KB@Dutch Wikipedia](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief) - provides an overview (in Dutch) of news, updates, projects, events, metrics and other information related to the collaboration between the KB and Dutch Wikipedia. 
 
+------------
 
-Icons : https://free-icons.github.io/free-icons/ - CC-BY // https://github.com/free-icons/free-icons
+Icons credits: [https://free-icons.github.io/free-icons](https://free-icons.github.io/free-icons) - CC-BY 4.0 - [Github](https://github.com/free-icons/free-icons)
