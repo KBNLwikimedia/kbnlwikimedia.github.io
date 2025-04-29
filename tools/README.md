@@ -4,7 +4,10 @@
 <img src="../media/wikimedia-logos.png" align="right" width="300" hspace="0" align="left"/>
 <br clear="all"/>
 
+<img src="../media/screwdriver-wrench.svg" align="left" width="100" hspace="20" vspace="10"/>
+
 # Overview of tools and scripts related to the Wikimedia effort of the KB.
+<br clear="all"/>
 
 * [GLAMorousToHTML] - https://github.com/KBNLwikimedia/GLAMorousToHTML
 * [Commons:WriteSDoCfromExcel] - 

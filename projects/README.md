@@ -4,7 +4,10 @@
 <img src="../media/wikimedia-logos.png" align="right" width="300" hspace="0" align="left"/>
 <br clear="all"/>
 
+<img src="../media/building-columns.svg" align="left" width="100" hspace="20" vspace="10"/>
+
 # Overview of Github repos for projects related to the collections of the KB. 
+<br clear="all"/>
 
 * https://github.com/KBNLwikimedia/KBChildrensPictureBooks
 * https://github.com/KBNLwikimedia/WikimediaCommonsMiscellaneousKBimageSets

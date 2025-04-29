@@ -4,7 +4,10 @@
 <img src="../media/wikimedia-logos.png" align="right" width="300" hspace="0" align="left"/>
 <br clear="all"/>
 
+<img src="../media/screen-users.svg" align="left" width="100" hspace="20" vspace="10"/>
+
 # Overview of workshops and courses related to the Wikimedia effort of the KB
+<br clear="all"/>
 
 Zie die PDF die Shan heeft opgemaakt met het cursusaanmbod
 D:\KB-OPEN\PresentatiesOlaf\2024\Leren over Wikimedia & Co een catalogus met aanbod
