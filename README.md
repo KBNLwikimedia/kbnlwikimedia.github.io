@@ -4,6 +4,17 @@
 
 # Overview of KB-Wikimedia materials on Github
 
+XXXXXXXXXXXXXXXXXXX
+Welcome to the Github page of the Koninklijke Bibliotheek (KB) and Wikimedia collaboration. This page provides an overview of the materials related to the KB-Wikimedia collaboration that are hosted on Github.
+
+The KB is the national library of the Netherlands and is a partner of Wikimedia in the Netherlands. The KB has been involved in Wikimedia projects since 2011. The KB also collaborates with Wikimedia on various projects related to Wikidata, Wikibase, and other Wikimedia platforms.
+
+Please note this Github page is a work in progress. The KB and Wikimedia are continuously working on new projects and materials, so this page will be updated regularly.
+
+Also note that this overviews does not reprent all Wikimedia related materials of the KB. See the section below for an overview of KB-Wikimedia materials available on other platforms.
+
+-------------
+
 <img src="media/book-open-cover.svg" align="left" width="80" hspace="20" vspace="20"/>
 
 ## Stories

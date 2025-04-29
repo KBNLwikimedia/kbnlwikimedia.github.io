@@ -4,7 +4,7 @@
 <img src="../media/wikimedia-logos.png" align="right" width="300" hspace="0" align="left"/>
 <br clear="all"/>
 
-<img src="../media/book-open-cover.svg" align="left" width="100" hspace="20" vspace="0"/>
+<img src="../media/book-open-cover.svg" align="left" width="100" hspace="20" vspace="10"/>
 
 # Overview of (data) stories related to the Wikimedia effort of the KB.
 <br clear="all"/>
