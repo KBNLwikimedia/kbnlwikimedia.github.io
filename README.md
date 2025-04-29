@@ -1,5 +1,10 @@
 # Overview of KB-Wikimedia materials on Github
 
+<img src="media/KB_Nationale-Bibliotheek_Logo_RGB-Zwart-EN.png" align="right" width="300" hspace="30"/>
+<img src="media/wikimedia-logos.png" align="right" width="100%" hspace="30" align="right"/>
+
+<br clear="all"/>
+
 ## [Stories](https://kbnlwikimedia.github.io/stories/index.html)
 
 ## Tools
