@@ -50,31 +50,41 @@ Overview of [Github-hosted games](https://kbnlwikimedia.github.io/games/index.ht
 # KB-Wikimedia materials elsewhere
 In addition to the above materials here on Github, there is also KB-Wikimedia content available on other platforms. These include:
 
-<img src="media/images.svg" align="left" width="80" hspace="20" vspace="20"/>
-
-## Collection images
-* [Overview of KB image and media files](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek/Media_overview) on Wikimedia Commons
-* [Chronological overview of media donations](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek/Media_donations)
-
-<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 1em;">
-  <img src="media/presentation-screen.svg" width="80" alt="Presentation icon" style="flex-shrink: 0;" />
-
+<div style="display: flex; align-items: flex-start; gap: 45px; margin-bottom: 1em;">
+  <img src="media/images.svg" width="80" alt="Images icon" style="flex-shrink: 0;" />
   <div>
-     <strong style="font-size: 1.7em;">Presentations & publications</strong>
+     <strong style="font-size: 1.7em;">Collection images</strong>
      <ul style="margin: 0.3em 0 0 1em; padding: 0;">
-      <li><a href="https://commons.wikimedia.org/wiki/Koninklijke_Bibliotheek/GLAM">Most recent presentations, articles, tutorials, manuals, courses, handouts, workhops, howto's, lessons, lectures, videos, papers etc</a> about Wikipedia, Commons, Wikidata, Wikibase and GLAM-Wiki. </li>
-      <li>Older publications (back to 2011) can be found on the <a href="https://commons.wikimedia.org/wiki/Koninklijke_Bibliotheek/GLAM/Archive">archive page</a>, sorted by year. </li>
-      <li><a href="https://zenodo.org/search?page=1&size=20&q=creators.orcid:%220000-0002-9058-9941%22&sort=-publication_date">Presentations & publications on Zenodo</a></li>
+      <li><a href="https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek/Media_overview" target="_blank">Overview of KB image and media files</a> on Wikimedia Commons.</li>
+      <li><a href="https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek/Media_donations" target="_blank">Chronological overview of media donations</a>.</li>
     </ul>
   </div>
 </div>
 
-<img src="media/at.svg" align="left" width="80" hspace="20" vspace="20"/>
+<div style="display: flex; align-items: flex-start; gap: 45px; margin-bottom: 1em;">
+  <img src="media/presentation-screen.svg" width="80" alt="Presentation icon" style="flex-shrink: 0;" />
+  <div>
+     <strong style="font-size: 1.7em;">Presentations & publications</strong>
+     <ul style="margin: 0.3em 0 0 1em; padding: 0;">
+      <li><a href="https://commons.wikimedia.org/wiki/Koninklijke_Bibliotheek/GLAM" target="_blank">Most recent presentations, articles, tutorials, manuals, courses, handouts, workhops, howto's, lessons, lectures, videos, papers etc</a> about Wikipedia, Commons, Wikidata, Wikibase and GLAM-Wiki. </li>
+      <li>Older publications (back to 2011) can be found on the <a href="https://commons.wikimedia.org/wiki/Koninklijke_Bibliotheek/GLAM/Archive" target="_blank">archive page</a>, sorted by year. </li>
+      <li><a href="https://zenodo.org/search?page=1&size=20&q=creators.orcid:%220000-0002-9058-9941%22&sort=-publication_date" target="_blank">Presentations & publications on Zenodo</a></li>
+    </ul>
+  </div>
+</div>
 
-## KB@Wikimedia platforms
-- [KB@Wikimedia Commons](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek) - provides an overview of media files, image donations, cases studies, stories, uptake & reuse metrics and other information related to the activities of the KB on Wikimedia Commons
-- [KB@Wikidata](https://www.wikidata.org/wiki/Wikidata:GLAM/Koninklijke_Bibliotheek_Nederland) - provides an overview of current, upcoming and possible future Wikidata and Wikibase activities, projects, ideas, experiments and opportunities for the KB. 
-- [KB@Dutch Wikipedia](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief) - provides an overview (in Dutch) of news, updates, projects, events, metrics and other information related to the collaboration between the KB and Dutch Wikipedia. 
+
+<div style="display: flex; align-items: flex-start; gap: 45px; margin-bottom: 1em;">
+  <img src="media/at.svg" width="80" alt="At icon" style="flex-shrink: 0;" />
+  <div>
+     <strong style="font-size: 1.7em;">KB@Wikimedia platforms</strong>
+     <ul style="margin: 0.3em 0 0 1em; padding: 0;">
+      <li><a href="https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek" target="_blank">KB@Wikimedia Commons</a> - provides an overview of media files, image donations, cases studies, stories, uptake & reuse metrics and other information related to the activities of the KB on Wikimedia Commons.</li>
+      <li><a href="https://www.wikidata.org/wiki/Wikidata:GLAM/Koninklijke_Bibliotheek_Nederland" target="_blank">KB@Wikidata</a> - provides an overview of current, upcoming and possible future Wikidata and Wikibase activities, projects, ideas, experiments and opportunities for the KB.</li>
+      <li><a href="https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief" target="_blank">KB@Dutch Wikipedia</a> - provides an overview (in Dutch) of news, updates, projects, events, metrics and other information related to the collaboration between the KB and Dutch Wikipedia. .</li>
+    </ul>
+  </div>
+</div>
 
 ------------
 
