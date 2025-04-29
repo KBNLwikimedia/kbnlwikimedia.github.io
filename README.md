@@ -5,19 +5,47 @@
 # Overview of KB-Wikimedia materials on Github
 
 ## [Stories](https://kbnlwikimedia.github.io/stories/index.html)
+Overview of (data) stories related to the Wikimedia projects of the KB
 
-## Tools
-* glamorousToHTML
-* videoltools
-* One more
+## [Tools]()
+* [GLAMorousToHTML] - https://github.com/KBNLwikimedia/GLAMorousToHTML
+* [Commons:WriteSDoCfromExcel] - 
+* https://commons.wikimedia.org/wiki/Commons:WriteSDoCfromExcel + https://github.com/KBNLwikimedia/SDoC/tree/main/writeSDoCfromExcel
+* [WikimediaKBURLReplacement] -
+* https://github.com/KBNLwikimedia/WikimediaKBURLReplacement
+* 
+### Non-Wikimedia tools, but still handy
+* [Videotools] - 
+* https://kbnlresearch.github.io/videotools/
+* https://github.com/KBNLresearch/videotools
+  -- https://kbnlresearch.github.io/videotools/stories/How%20to%20create%20high-quality%20offline%20video%20transcriptions%20and%20subtitles%20using%20Whisper%20and%20Python.html
 
+* [WaybackMachine] - https://github.com/ookgezellig/SaveToWaybackMachine
 
-## Workshops and courses
-* Wikidata PL 
+## [Workshops and courses]()
+* https://github.com/KBNLwikimedia/Wikidata-General-Overview
+* https://github.com/KBNLwikimedia/Wikidata-KB-Overview
+* https://github.com/KBNLwikimedia/WikidataMapMakingWorkshop
 * Wikibase
+* https://github.com/KBNLwikimedia/Wikibase-resources
 * WikidataKB
+* Commons
+* https://github.com/KBNLwikimedia/OpenRefine-WikimediaCommons-Workshop
+* OpenRefine
+* https://github.com/KBNLwikimedia/OpenRefine-Introduction-Workshop
+* https://github.com/KBNLwikimedia/OpenRefine-WikimediaCommons-Workshop
 
-## Projects
+## Projects (mainly non-code)
+* [Wikifaces]() -
+* https://github.com/KBNLwikimedia/KBChildrensPictureBooks
+* https://github.com/KBNLwikimedia/WikimediaCommonsMiscellaneousKBimageSets
+* https://github.com/KBNLwikimedia/KBMedievalManuscripts
+* https://github.com/KBNLwikimedia/KBCollectionHighlights
+* https://github.com/KBNLwikimedia/DutchLiteraryAwards
+* https://github.com/KBNLwikimedia/DutchPublicLibraries
+* https://github.com/KBNLwikimedia/DBNL-Algemeen-letterkundig-lexicon
+* https://github.com/KBNLwikimedia/Alba-Amicorum
+* https://github.com/KBNLwikimedia/VerzetskrantenWO2
 
 # KB-Wikimedia materials elsewhere
 In addition to the above materials here on Github, there is also KB-Wikimedia content available on other platforms. These include:
