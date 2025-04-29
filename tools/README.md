@@ -4,7 +4,7 @@
 <img src="../media/wikimedia-logos.png" align="right" width="300" hspace="0" align="left"/>
 <br clear="all"/>
 
-# Overview of tools and scripts related to the Wikimedia projects of the KB, national library of the Netherlands 
+# Overview of tools and scripts related to the Wikimedia effort of the KB.
 
 * [GLAMorousToHTML] - https://github.com/KBNLwikimedia/GLAMorousToHTML
 * [Commons:WriteSDoCfromExcel] - 

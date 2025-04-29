@@ -4,7 +4,7 @@
 <img src="../media/wikimedia-logos.png" align="right" width="300" hspace="0" align="left"/>
 <br clear="all"/>
 
-# Overview of workshops and courses related to the Wikimedia efforts of the KB
+# Overview of workshops and courses related to the Wikimedia effort of the KB
 
 ## [Workshops and courses]()
 * https://github.com/KBNLwikimedia/Wikidata-General-Overview

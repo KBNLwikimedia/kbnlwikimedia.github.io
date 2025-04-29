@@ -7,7 +7,7 @@
 ## Stories
 Overview of [(data) stories](https://kbnlwikimedia.github.io/stories/index.html) on Github related to the Wikimedia effort of the KB.
 
-## Tools
+## Tools and scripts
 Overview of [tools and scripts](https://kbnlwikimedia.github.io/tools/index.html) on Github related to the Wikimedia effort of the KB.
 
 ## Workshops and courses
@@ -15,6 +15,10 @@ Overview of [workshop and course materials](https://kbnlwikimedia.github.io/work
 
 ## Projects (mainly non-code)
 Overview of [Github repos](https://kbnlwikimedia.github.io/projects/index.html) for projects related to the collections of the KB. 
+
+## Games
+Overview of [Github-hosted games](https://kbnlwikimedia.github.io/games/index.html) related to the Wikimedia effort of the KB.
+
 
 # KB-Wikimedia materials elsewhere
 In addition to the above materials here on Github, there is also KB-Wikimedia content available on other platforms. These include:

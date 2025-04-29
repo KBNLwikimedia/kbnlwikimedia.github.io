@@ -4,9 +4,8 @@
 <img src="../media/wikimedia-logos.png" align="right" width="300" hspace="0" align="left"/>
 <br clear="all"/>
 
-# Overview of Wikimedia-projects related to the collections of the KB 
+# Overview of Github repos for projects related to the collections of the KB. 
 
-* [Wikifaces]() -
 * https://github.com/KBNLwikimedia/KBChildrensPictureBooks
 * https://github.com/KBNLwikimedia/WikimediaCommonsMiscellaneousKBimageSets
 * https://github.com/KBNLwikimedia/KBMedievalManuscripts
