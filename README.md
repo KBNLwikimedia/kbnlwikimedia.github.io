@@ -50,6 +50,8 @@ Overview of [Github-hosted games](https://kbnlwikimedia.github.io/games/index.ht
 # KB-Wikimedia materials elsewhere
 In addition to the above materials here on Github, there is also KB-Wikimedia content available on other platforms. These include:
 
+<img src="media/images.svg" align="left" width="80" hspace="20" vspace="20"/>
+
 ## Collection images
 - [Overview of KB image and media files](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek/Media_overview) on Wikimedia Commons
   - [Chronological overview of media donations](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek/Media_donations)
