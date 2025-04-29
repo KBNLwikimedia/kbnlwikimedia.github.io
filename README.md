@@ -53,13 +53,17 @@ In addition to the above materials here on Github, there is also KB-Wikimedia co
 <img src="media/images.svg" align="left" width="80" hspace="20" vspace="20"/>
 
 ## Collection images
-- [Overview of KB image and media files](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek/Media_overview) on Wikimedia Commons
-  - [Chronological overview of media donations](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek/Media_donations)
+* [Overview of KB image and media files](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek/Media_overview) on Wikimedia Commons
+* [Chronological overview of media donations](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek/Media_donations)
+
+<img src="media/presentation-screen.svg" align="left" width="80" hspace="20" vspace="20"/>
 
 ## Presentations & publications
 - [Most recent presentations, articles, tutorials, manuals, courses, handouts, workhops, howto's, lessons, lectures, videos, papers etc](https://commons.wikimedia.org/wiki/Koninklijke_Bibliotheek/GLAM) about Wikipedia, Commons, Wikidata, Wikibase and GLAM-Wiki. 
-  - Older publications (back to 2011) can be found on the [archive page](https://commons.wikimedia.org/wiki/Koninklijke_Bibliotheek/GLAM/Archive), sorted by year. 
+ - Older publications (back to 2011) can be found on the [archive page](https://commons.wikimedia.org/wiki/Koninklijke_Bibliotheek/GLAM/Archive), sorted by year. 
 - [Presentations & publications on Zenodo](https://zenodo.org/search?page=1&size=20&q=creators.orcid:%220000-0002-9058-9941%22&sort=-publication_date)
+
+<img src="media/at.svg" align="left" width="80" hspace="20" vspace="20"/>
 
 ## KB@Wikimedia platforms
 - [KB@Wikimedia Commons](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek) - provides an overview of media files, image donations, cases studies, stories, uptake & reuse metrics and other information related to the activities of the KB on Wikimedia Commons
