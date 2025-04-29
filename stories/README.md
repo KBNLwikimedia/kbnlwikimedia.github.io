@@ -2,9 +2,8 @@
 
 # Overview of (data) stories related to the Wikimedia projects of the KB, national library of the Netherlands 
 
-<img src="../media/wmc-logo.jpg" align="right" width="120" hspace="30"/>
-<img src="../media/icon_wp.png" align="right" width="120" hspace="30"/>
-<img src="../media/KB_Nationale-Bibliotheek_Logo_RGB-Zwart-EN.png" align="right" width="300"/>
+<img src="../media/KB_Nationale-Bibliotheek_Logo_RGB-Zwart-EN.png" width="350" hspace="0" align="left"/>
+<img src="../media/wikimedia-logos.png" align="right" width="300" hspace="0" align="left"/>
 <br clear="all"/>
 
 ## [Free to use? Exploring public domain claims in Wikimedia Commons files sourced from Delpher (May 2025)](https://kbnlwikimedia.github.io/wikimedia-commons_copyright-templates/stories/Free%20to%20use%20-%20Exploring%20public%20domain%20claims%20in%20Wikimedia%20Commons%20files%20sourced%20from%20Delpher%20(May%202025).html)
