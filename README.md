@@ -30,7 +30,8 @@ Overview of [tools and scripts](https://kbnlwikimedia.github.io/tools/index.html
 <img src="media/screen-users.svg" align="left" width="80" hspace="20" vspace="20"/>
 
 ## Workshops and courses
-Overview of [workshop and course materials](https://kbnlwikimedia.github.io/workshops-courses/index.html) related to the Wikimedia effort of the KB (hosted on Github and elsewhere). Only described in Dutch for now.
+Overview of [workshop and course materials](https://kbnlwikimedia.github.io/workshops-courses/index.html) related to the Wikimedia effort of the KB (hosted on Github and elsewhere). Only described in Dutch for now.<br/>
+See Wikimedia commons for [more workshop and course materials](https://commons.wikimedia.org/wiki/Koninklijke_Bibliotheek/GLAM).
 <br clear="all"/>
 
 <img src="media/building-columns.svg" align="left" width="80" hspace="20" vspace="20"/>
