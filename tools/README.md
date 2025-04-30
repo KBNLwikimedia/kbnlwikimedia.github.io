@@ -6,7 +6,7 @@
 
 <img src="../media/screwdriver-wrench.svg" align="left" width="100" hspace="20" vspace="10"/>
 
-# Overview of tools and scripts related to the Wikimedia effort of the KB
+# Overview of tools and scripts on Github related to the Wikimedia effort of the KB
 <br clear="all"/>
 
 * [GLAMorousToHTML] - https://github.com/KBNLwikimedia/GLAMorousToHTML
