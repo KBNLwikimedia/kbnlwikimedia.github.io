@@ -21,6 +21,9 @@ Dit aanbod is zowel beschikbaar voor groepen binnen de KB als voor onze netwerkp
 * **Netwerkpartijen: NDE, Public Spaces, etc.
 * **Aanverwante non-profitorganisaties
 
+See Wikimedia Commons for [more KB workshop and course materials](https://commons.wikimedia.org/wiki/Koninklijke_Bibliotheek/GLAM).
+
+
 -------------------
 ## Wikipedia
 
