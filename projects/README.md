@@ -21,13 +21,12 @@
     <th>Links</th>
   </tr>
   <tr>
-    <td><img src="../media/KBTopstukkenBannerWikimedia_EN.jpg" width="300"/><br/><a href="https://github.com/KBNLwikimedia/KBCollectionHighlights">KBCollectionHighlights</a></td>
+    <td><img src="../media/KBTopstukkenBannerWikimedia_EN.jpg" width="400"/><br/><a href="https://github.com/KBNLwikimedia/KBCollectionHighlights">KBCollectionHighlights</a></td>
     <td>Code, data and stories related to the <a href="https://www.kb.nl/zoeken/content/categorie/topstuk">collection highlights of the KB</a>, the national library of the Netherlands</td>
     <td>
       <ul>
         <li><a href="https://www.wikidata.org/wiki/Wikidata:WikiProject_Collection_highlights_National_Library_of_the_Netherlands">Wikidata project</a></li>
-        <li><a href="https://commons.wikimedia.org/wiki/Category:Collection_highlights_of_Koninklijke_Bibliotheek">Commons category</a></li><li><a href="https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Topstukken">Dutch Wikipedia project page</a></li><li><a href="https://kbnlwikimedia.github.io/KBCollectionHighlights/stories/">Stories</a></li>
-
+        <li><a href="https://commons.wikimedia.org/wiki/Category:Collection_highlights_of_Koninklijke_Bibliotheek">Commons category</a></li><li><a href="https://commons.wikimedia.org/wiki/Koninklijke_Bibliotheek/Collection_highlights">Commons gallery</a></li><li><a href="https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Topstukken">Dutch Wikipedia project page</a></li><li><a href="https://kbnlwikimedia.github.io/KBCollectionHighlights/stories/">Stories</a></li>
       </ul>
     </td>
   </tr>
