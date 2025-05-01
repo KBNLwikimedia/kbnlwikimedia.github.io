@@ -82,6 +82,20 @@ The KB regularly uploads images from its heritage collections - atlases, medieva
 <img src="../media/Public_outreach_and_reuse_of_KB_images_via_Wikipedia_2014-2022.png" align="left" width="400"></a>
 <br clear="all"/>
 
+
+## [KB collection highlights - stories & publications](https://kbnlwikimedia.github.io/KBCollectionHighlights/stories/)
+
+**Keywords:** KB, collection highlights, reuse, Wikification, Wikidata, Wikipedia, Wikimedia Commons
+
+### [50 cool new things you can now do with KB's collection highlights](https://kbnlwikimedia.github.io/KBCollectionHighlights/stories/Cool%20new%20things%20you%20can%20now%20do%20with%20the%20KB's%20collection%20highlights/) 
+
+*March 2021*
+
+In this [series of 5 articles](https://kbnlwikimedia.github.io/KBCollectionHighlights/stories/Cool%20new%20things%20you%20can%20now%20do%20with%20the%20KB's%20collection%20highlights/) we show the added value of putting images and metadata of [digitised collection highlights](https://www.kb.nl/zoeken/content/categorie/topstuk) of the KB, national library of the Netherlands, into the Wikimedia infrastructure. By putting our collection highlights into Wikidata, Wikimedia Commons and Wikipedia, dozens of new functionalities have been added. As a result of Wikifying this collection, you can now do things with these highlights that were not possible before.
+
+<a href="https://kbnlwikimedia.github.io/KBCollectionHighlights/stories/Cool%20new%20things%20you%20can%20now%20do%20with%20the%20KB's%20collection%20highlights/" target="_blank"><img src="../media/KBtopstukkenMemeEN.jpg" align="left" width="400"></a>
+<br clear="all"/>
+
 ## [Detecting Wikipedia articles strongly based on single library collections](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Detecting%20Wikipedia%20articles%20strongly%20based%20on%20single%20library%20collections.html)
 
 **Keywords:** Wikipedia, Delpher, DBNL, KB, reuse
