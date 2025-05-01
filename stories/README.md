@@ -84,7 +84,11 @@ The KB regularly uploads images from its heritage collections - atlases, medieva
 
 ## [KB collection highlights - stories](https://kbnlwikimedia.github.io/KBCollectionHighlights/stories/)
 
+<img src="../media/KBTopstukkenBannerWikimedia_EN.jpg" width="100%"/>
+
 **Keywords:** KB, collection highlights, reuse, Wikification, Wikidata, Wikipedia, Wikimedia Commons
+
+
 
 #### [50 cool new things you can now do with KB's collection highlights](https://kbnlwikimedia.github.io/KBCollectionHighlights/stories/Cool%20new%20things%20you%20can%20now%20do%20with%20the%20KB's%20collection%20highlights/) 
 
