@@ -11,7 +11,7 @@
 
 ## [Free to use? Exploring public domain claims in Wikimedia Commons files sourced from Delpher (May 2025)](https://kbnlwikimedia.github.io/wikimedia-commons_copyright-templates/stories/Free%20to%20use%20-%20Exploring%20public%20domain%20claims%20in%20Wikimedia%20Commons%20files%20sourced%20from%20Delpher%20(May%202025).html)
 
-<a href="https://kbnlwikimedia.github.io/wikimedia-commons_copyright-templates/stories/Free%20to%20use%20-%20Exploring%20public%20domain%20claims%20in%20Wikimedia%20Commons%20files%20sourced%20from%20Delpher%20(May%202025).html" target="_blank">article<a/>
+<a href="https://kbnlwikimedia.github.io/wikimedia-commons_copyright-templates/stories/Free%20to%20use%20-%20Exploring%20public%20domain%20claims%20in%20Wikimedia%20Commons%20files%20sourced%20from%20Delpher%20(May%202025).html" >article</a>
 
 <img src="../media/toadd.jpg" align="right" width="400" hspace="10" vspace="5"></a>
 
@@ -25,7 +25,7 @@ In the second part, we explore the validity of these claims and assess whether t
 
 ## [Het gebruik van Delpher-URL's in Nederlandstalige Wikipedia-artikelen, januari 2025](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20Delpher%20in%20Nederlandstalige%20Wikipedia-artikelen,%20januari%202025.html)
 
-<a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20Delpher%20in%20Nederlandstalige%20Wikipedia-artikelen,%20januari%202025.html" target="_blank">
+<a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20Delpher%20in%20Nederlandstalige%20Wikipedia-artikelen,%20januari%202025.html" >
 <img src="../media/Het-gebruik-van-Delpher-in-Nederlandstalige-Wikipedia-artikelen_Jan2025.jpg" align="right" width="400" hspace="10" vspace="5"></a>
 
 **Keywords:** Delpher, Wikipedia, KB, URLs, references
@@ -36,7 +36,7 @@ The Dutch full-text historical newspapers, books and periodicals archive [Delphe
 
 ## [Het gebruik van DBNL-URL's in Nederlandstalige Wikipedia-artikelen, september 2024](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20DBNL%20in%20Nederlandstalige%20Wikipedia-artikelen,%20september%202024.html)
 
-<a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20DBNL%20in%20Nederlandstalige%20Wikipedia-artikelen,%20september%202024.html" target="_blank">
+<a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Het%20gebruik%20van%20DBNL%20in%20Nederlandstalige%20Wikipedia-artikelen,%20september%202024.html" >
 <img src="../media/Het-gebruik-van-DBNL-in-Nederlandstalige-Wikipedia-artikelen_Sept2024.jpg" align="right" width="400" hspace="10" vspace="5"></a>
 
 **Keywords:** DBNL, Wikipedia, KB, URLs, references
@@ -47,7 +47,7 @@ The [Digital Library for Dutch Literature](https://www.dbnl.org/) (DBNL) is a fr
 
 ## [Reuse indicators for KB images in Wikipedia and Wikimedia Commons, the 2023 update](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Reuse%20indicators%20for%20KB%20images%20in%20Wikipedia%20and%20Wikimedia%20Commons%2C%20the%202023%20update.html)
 
-<a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Reuse%20indicators%20for%20KB%20images%20in%20Wikipedia%20and%20Wikimedia%20Commons%2C%20the%202023%20update.html" target="_blank"><img src="../media/Reuse_indicators_for_KB_images_in_Wikipedia_and_Wikimedia_Commons_the_2023_update.png" align="right" width="400" hspace="10" vspace="5"></a>
+<a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Reuse%20indicators%20for%20KB%20images%20in%20Wikipedia%20and%20Wikimedia%20Commons%2C%20the%202023%20update.html" ><img src="../media/Reuse_indicators_for_KB_images_in_Wikipedia_and_Wikimedia_Commons_the_2023_update.png" align="right" width="400" hspace="10" vspace="5"></a>
 
 **Keywords:**  reuse, public reach, KB collection images, Wikipedia, Wikimedia Commons
 
@@ -58,7 +58,7 @@ At the beginning of January 2024, we measured these three indicators again, this
 
 ## [Three reuse indicators for KB images in Wikipedia and Wikimedia Commons, in a historical perspective (2013-2022)](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Three%20reuse%20indicators%20for%20KB%20images%20in%20Wikipedia%20and%20Wikimedia%20Commons,%20in%20a%20historical%20perspective%20(2013-2022).html)
 
-<a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Three%20reuse%20indicators%20for%20KB%20images%20in%20Wikipedia%20and%20Wikimedia%20Commons,%20in%20a%20historical%20perspective%20(2013-2022).html" target="_blank"><img src="../media/Three_reuse_indicators_for_KB_images_in_Wikipedia_and_Wikimedia_Commons_in_a_historical_perspective_(2013-2022).png" align="right" width="400" hspace="10" vspace="5"></a>
+<a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Three%20reuse%20indicators%20for%20KB%20images%20in%20Wikipedia%20and%20Wikimedia%20Commons,%20in%20a%20historical%20perspective%20(2013-2022).html" ><img src="../media/Three_reuse_indicators_for_KB_images_in_Wikipedia_and_Wikimedia_Commons_in_a_historical_perspective_(2013-2022).png" align="right" width="400" hspace="10" vspace="5"></a>
 
 **Keywords:**  reuse, public reach, KB collection images, Wikipedia, Wikimedia Commons
 
@@ -68,7 +68,7 @@ Wikipedia is a very effective channel to globally improve the findability, visib
 
 ## [Public outreach and reuse of KB images via Wikipedia, 2014-2022](https://kbnlwikimedia.github.io/GLAMorousToHTML/stories/Public%20outreach%20and%20reuse%20of%20KB%20images%20via%20Wikipedia%2C%202014-2022.html)
 
-<a href="https://kbnlwikimedia.github.io/GLAMorousToHTML/stories/Public%20outreach%20and%20reuse%20of%20KB%20images%20via%20Wikipedia%2C%202014-2022.html" target="_blank">
+<a href="https://kbnlwikimedia.github.io/GLAMorousToHTML/stories/Public%20outreach%20and%20reuse%20of%20KB%20images%20via%20Wikipedia%2C%202014-2022.html" >
 <img src="../media/Public_outreach_and_reuse_of_KB_images_via_Wikipedia_2014-2022.png" align="right" width="400" hspace="10" vspace="5"></a>
 
 **Keywords:** Reuse, public reach, KB collection images, Wikipedia, Wikimedia Commons
@@ -83,7 +83,7 @@ The KB regularly uploads images from its heritage collections - atlases, medieva
 
 #### [50 cool new things you can now do with KB's collection highlights](https://kbnlwikimedia.github.io/KBCollectionHighlights/stories/Cool%20new%20things%20you%20can%20now%20do%20with%20the%20KB's%20collection%20highlights/) 
 
-<a href="https://kbnlwikimedia.github.io/KBCollectionHighlights/stories/Cool%20new%20things%20you%20can%20now%20do%20with%20the%20KB's%20collection%20highlights/" target="_blank"><img src="../media/KBtopstukkenMemeEN.jpg" align="right" width="400" hspace="10" vspace="5"></a>
+<a href="https://kbnlwikimedia.github.io/KBCollectionHighlights/stories/Cool%20new%20things%20you%20can%20now%20do%20with%20the%20KB's%20collection%20highlights/" ><img src="../media/KBtopstukkenMemeEN.jpg" align="right" width="400" hspace="10" vspace="5"></a>
 
 *March 2021*
 
@@ -91,7 +91,7 @@ In this [series of 5 articles](https://kbnlwikimedia.github.io/KBCollectionHighl
 
 ## [Detecting Wikipedia articles strongly based on single library collections](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Detecting%20Wikipedia%20articles%20strongly%20based%20on%20single%20library%20collections.html)
 
-<a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Detecting%20Wikipedia%20articles%20strongly%20based%20on%20single%20library%20collections.html" target="_blank">
+<a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Detecting%20Wikipedia%20articles%20strongly%20based%20on%20single%20library%20collections.html" >
 <img src="../media/Detecting_Wikipedia_articles_strongly_based_on_single_library_collections.png" align="right" width="400" hspace="10" vspace="5"></a>
 
 **Keywords:** Wikipedia, Delpher, DBNL, KB, reuse
