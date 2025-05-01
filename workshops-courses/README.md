@@ -14,19 +14,18 @@
 # Overview of workshops and courses related to the Wikimedia effort of the KB
 <br clear="all"/>
 
-Als Wikimedia-coördinator van de KB heb ik de afgelopen jaren vele presentaties, workshops, cursussen en masterclasses gegeven, zowel intern als extern. Daarbij gaat het over onderwerpen als Wikipedia, Wikimedia Commons, Wikidata, Wikibase, OpenRefine en SPARQL.
-Aldoende heb ik inmiddels een mooie catalogus aan leer- en kennisdelingsactiviteiten ontwikkeld, die ik vrijwel kant-en-klaar tot mijn beschikking heb.
-Met ingang van 2024 wil ik dit educatieve aanbod voor nog meer mensen beschikbaar maken.
-Hieronder vind je een overzicht van de kennisdelingsactiviteiten die ik momenteel aanbied. Zoals je ziet valt mijn aanbod uiteen in twee blokken: Standaardaanbod en Maatwerk.
-Dit aanbod is zowel beschikbaar voor groepen binnen de KB als voor onze netwerkpartners. Denk daarbij bijvoorbeeld aan:
-* **Interne teams, afdelingen en individuele collega's
-* **GLAM-sector: bibliotheken, archieven, musea en overige erfgoedinstellingen
-* **Onderwijs en onderzoek: universiteiten, hogescholen, onderzoeksinstellingen, etc.
-* **Media: omroepen, uitgevers, etc.
-* **Netwerkpartijen: NDE, Public Spaces, etc.
-* **Aanverwante non-profitorganisaties
+The [Wikimedia coordinator of the KB](https://www.kb.nl/over-ons/experts/olaf-janssen)  has given many presentations, workshops, courses, and masterclasses over the past years, both internally and externally. These have covered topics such as Wikipedia, Wikimedia Commons, Wikidata, Wikibase, OpenRefine, and SPARQL.
 
-See Wikimedia Commons for [more KB workshop and course materials](https://commons.wikimedia.org/wiki/Koninklijke_Bibliotheek/GLAM).
+Below we share a selection of the workshops and courses given in the past. The list is not exhaustive, but it does give a good overview of the topics covered.
+
+If you want to discover more, please check Wikimedia Commons for [more KB workshop and course materials](https://commons.wikimedia.org/wiki/Koninklijke_Bibliotheek/GLAM) related to Wikimedia.
+
+Target audiences for these materials include:
+* **GLAM sector**: Libraries, archives, museums, and other heritage institutions working with cultural heritage and free/open knowledge.
+* **Education and research**: Universities, universities of applied sciences, research institutions, etc.
+* **Media sector**: Broadcasters, publishers, etc.
+* **Network organizations**: [NDE](https://netwerkdigitaalerfgoed.nl/), [Public Spaces](https://publicspaces.net/), etc.
+* **Related non-profit organizations**
 
 -------------------
 ## Wikipedia
