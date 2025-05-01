@@ -1,4 +1,9 @@
-[<< Back to homepage](https://kbnlwikimedia.github.io)
+<table width="100%" border="0"><tr><td align="left">
+<a href="https://kbnlwikimedia.github.io/"><< Back to homepage</a>
+</td><td align="right">
+<a href="https://github.com/KBNLwikimedia/kbnlwikimedia.github.io" target="_blank">>> To the Github repo of this page</a>
+</td></tr></table>
+<hr/>
 
 <img src="../media/KB_Nationale-Bibliotheek_Logo_RGB-Zwart-EN.png" width="350" hspace="0" align="left"/>
 <img src="../media/wikimedia-logos.png" align="right" width="300" hspace="0" align="left"/>
