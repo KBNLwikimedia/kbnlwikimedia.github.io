@@ -23,7 +23,6 @@ Dit aanbod is zowel beschikbaar voor groepen binnen de KB als voor onze netwerkp
 
 See Wikimedia Commons for [more KB workshop and course materials](https://commons.wikimedia.org/wiki/Koninklijke_Bibliotheek/GLAM).
 
-
 -------------------
 ## Wikipedia
 
@@ -69,7 +68,7 @@ See Wikimedia Commons for [more KB workshop and course materials](https://common
 * **Korte omschrijving:** In deze cursus wordt je op basisniveau wegwijs (en enigszins zelfredzaam) gemaakt in de wereld van [Wikidata](https://www.wikidata.org/). Hierbij zullen zowel de technische als de community-aspecten de revue passeren.
 * **Vorm:** Presentatie van pm. 90 minuten (met eventueel een korte pauze)
 * **Geschikt voor:** Mensen die al wel eens van Wikidata gehoord hebben, maar nog niet weten wat het precies is, en/of vooral op zoek zijn naar een overkoepelend overzicht van de Wikidata-wereld.
-* **Links:** [Beschrijving van deze cursus](https://zenodo.org/record/8006441) (Zenodo) + [Overzicht van de onderwerpen die behandeld worden](https://github.com/KBNLwikimedia/Wikidata-General-Overview) (Github)
+* **Links:** [Beschrijving van deze cursus](https://zenodo.org/record/8006441) (Zenodo) + [Overzicht van de onderwerpen die behandeld worden](https://kbnlwikimedia.github.io/Wikidata-General-Overview) (Github)
 
 ### Wikidata & de KB (verdieping)
 <img src="media/img6.png" align="right" hspace="0"  width="300"/>
@@ -77,7 +76,7 @@ See Wikimedia Commons for [more KB workshop and course materials](https://common
 * **Korte omschrijving:** Wil je weten waarom en hoe de KB Wikidata inzet om haar erfgoedcollecties beter zichtbaar, vindbaar en herbruikbaar te maken? Of wil je meer weten over de relatie tussen Wikidata en de KB-thesauri in data.bibliotheken.nl? Met dit soort vragen is het een goed idee om de verdiepende cursus "Wikidata & de KB" aan te vragen.
 * **Vorm:** Presentatie van pm. 75 minuten
 * **Geschikt voor:** Mensen die nieuwsgierig zijn naar hoe en waarom de KB gebruik maakt van, en bijdraagt aan Wikidata. Voor deze sessie is noodzakelijk om basiskennis over Wikidata te hebben (bv. door de basiscursus Wegwijzer in Wikidata te volgen). 
-* **Links:** [Beschrijving van deze cursus](https://zenodo.org/records/10160817) (Zenodo) + [Overzicht van de onderwerpen die behandeld worden](https://github.com/KBNLwikimedia/Wikidata-KB-Overview) (Github) 
+* **Links:** [Beschrijving van deze cursus](https://zenodo.org/records/10160817) (Zenodo) + [https://kbnlwikimedia.github.io/Wikidata-KB-Overview/) (Github) 
 
 ### Binnenkort: Workshop SPARQL & Wikidata voor beginners
 <img src="media/img7.png" align="right" hspace="0"  width="300"/>
@@ -94,7 +93,7 @@ Deze workshop wordt momenteel nog niet aangeboden.
 * **Korte omschrijving:** Je leert hoe je zowel platte, geclusterde, gelaagde, ingebedde, interactieve, on-Wiki en off-Wiki-kaarten kunt maken uit datasets van geo-gerefereerde items in Wikidata.
 * **Vorm:** Interactieve workshop van 90-120 minuten
 * **Geschikt voor:** Hoewel deze workshop technisch van aard is en basistechnieken en programmeertools van Wikidata, Wikipedia en Wikimedia Commons zal behandelen, is deze workshop wel toegankelijk voor beginnende Wikidata-bijdragers en programmeurs. De workshopleider, zelf geenszins een gevorderde Python-programmeur of Wikidata-SPARQL-goeroe, geeft voorbeelden en codesnippets die je eenvoudig zelf kunt aanpassen met enige basiskennis over SPARQL, Wikidata en Python.
-* **Links:** [Volledige beschrijving van deze workshop](https://github.com/KBNLwikimedia/WikidataMapMakingWorkshop) (Github)
+* **Links:** [Volledige beschrijving van deze workshop](https://kbnlwikimedia.github.io/WikidataMapMakingWorkshop) (Github)
 
 ## Wikibase
 
@@ -105,7 +104,7 @@ Deze workshop wordt momenteel nog niet aangeboden.
 Deze cursus is een vervolg op introductiesessie Wegwijzer in Wikidata.
 * **Vorm:** Presentatie van pm. 90 minuten (met eventuele korte pauze)
 * **Geschikt voor:** Mensen met enige kennis van Wikidata en die meer willen weten over Wikibase en nieuwsgierig zijn naar de verschillen en overeenkomsten tussen Wikidata en Wikibase.
-* **Links:** [Beschrijving van deze cursus](https://zenodo.org/record/8338811) (Zenodo) + [Overzicht van de onderwerpen die behandeld worden](https://github.com/KBNLwikimedia/Wikibase-resources) (Github)
+* **Links:** [Beschrijving van deze cursus](https://zenodo.org/record/8338811) (Zenodo) + [Overzicht van de onderwerpen die behandeld worden](https://kbnlwikimedia.github.io/Wikibase-resources/) (Github)
 
 ## OpenRefine
 
@@ -116,7 +115,7 @@ Deze cursus is een vervolg op introductiesessie Wegwijzer in Wikidata.
 In deze workshop leer je de basisprincipes van het werken met OpenRefine om data te bewerken en toe te voegen aan Wikidata. Je leert hoe je een OpenRefine-project aanmaakt, hoe je data kunt manipuleren en verrijken, en hoe je deze gegevens koppelt met databases zoals Wikidata, NTA of VIAF.
 * **Vorm:** Praktische workshop van 90 minuten.
 * **Geschikt voor:** Mensen die enige ervaring hebben met het werken met (cultureel erfgoed)data en OpenRefine nog niet eerder hebben gebruikt, maar wel de basis van het manipuleren, verrijken en koppelen van data met deze tool willen leren, en nog niet weten wat ‘datareconciliatie’ inhoudt.
-* **Links:** [Volledige beschrijving van deze workshop](https://github.com/KBNLwikimedia/OpenRefine-Introduction-Workshop) (Github)
+* **Links:** [Volledige beschrijving van deze workshop](https://kbnlwikimedia.github.io/OpenRefine-Introduction-Workshop/) (Github)
 
 ### Workshop: OpenRefine & Wikimedia Commons
 <img src="media/img11.png" align="right" hspace="0"  width="300"/>
@@ -125,4 +124,4 @@ In deze workshop leer je de basisprincipes van het werken met OpenRefine om data
 * **Vorm:** Interactieve workshop van 60-90 minuten
 * **Geschikt voor:** Mensen die bekend zijn met OpenRefine, hiermee vlot en zelfstandig gegevens aan Wikidata hebben toegevoegd en die weten wat "reconciliëren" inhoudt, maar nog niet weten hoe ze OpenRefine moeten gebruiken om afbeeldingen en gestructureerde gegevens toe te voegen aan Wikimedia Commons.
 Deze workshop is niet geschikt voor mensen die nog nooit met OpenRefine, Wikidata en/of Wikimedia Commons hebben gewerkt.
-* **Links:** [Volledige beschrijving van deze workshop](https://github.com/KBNLwikimedia/OpenRefine-WikimediaCommons-Workshop) (Github)
+* **Links:** [Volledige beschrijving van deze workshop](https://kbnlwikimedia.github.io/OpenRefine-WikimediaCommons-Workshop/) (Github)
