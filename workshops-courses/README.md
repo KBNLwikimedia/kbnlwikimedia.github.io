@@ -76,7 +76,7 @@ See Wikimedia Commons for [more KB workshop and course materials](https://common
 * **Korte omschrijving:** Wil je weten waarom en hoe de KB Wikidata inzet om haar erfgoedcollecties beter zichtbaar, vindbaar en herbruikbaar te maken? Of wil je meer weten over de relatie tussen Wikidata en de KB-thesauri in data.bibliotheken.nl? Met dit soort vragen is het een goed idee om de verdiepende cursus "Wikidata & de KB" aan te vragen.
 * **Vorm:** Presentatie van pm. 75 minuten
 * **Geschikt voor:** Mensen die nieuwsgierig zijn naar hoe en waarom de KB gebruik maakt van, en bijdraagt aan Wikidata. Voor deze sessie is noodzakelijk om basiskennis over Wikidata te hebben (bv. door de basiscursus Wegwijzer in Wikidata te volgen). 
-* **Links:** [Beschrijving van deze cursus](https://zenodo.org/records/10160817) (Zenodo) + [https://kbnlwikimedia.github.io/Wikidata-KB-Overview/) (Github) 
+* **Links:** [Beschrijving van deze cursus](https://zenodo.org/records/10160817) (Zenodo) + [Overzicht van de onderwerpen die behandeld worden](https://kbnlwikimedia.github.io/Wikidata-KB-Overview/) (Github) 
 
 ### Binnenkort: Workshop SPARQL & Wikidata voor beginners
 <img src="media/img7.png" align="right" hspace="0"  width="300"/>
