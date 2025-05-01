@@ -42,7 +42,7 @@ See Wikimedia Commons for [more KB workshop and course materials](https://common
 <img src="media/building-columns.svg" align="left" width="80" hspace="20" vspace="20"/>
 
 ## Projects (mainly non-code)
-Overview of [Github repos](https://kbnlwikimedia.github.io/projects/index.html) for projects related to the collections of the KB. 
+Overview of [Github repos](https://kbnlwikimedia.github.io/projects/index.html) for for collection related projects of the KB.
 <br clear="all"/>
 
 <img src="media/game-console-handheld.svg" align="left" width="80" hspace="20" vspace="20"/>
