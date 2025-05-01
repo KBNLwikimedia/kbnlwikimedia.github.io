@@ -21,7 +21,7 @@
     <th>Links</th>
   </tr>
   <tr>
-    <td><img src="media/KBTopstukkenBannerWikimedia_EN.jpg" width="300"/><br/><a href="https://github.com/KBNLwikimedia/KBCollectionHighlights">KBCollectionHighlights</a></td>
+    <td><img src="../media/KBTopstukkenBannerWikimedia_EN.jpg" width="300"/><br/><a href="https://github.com/KBNLwikimedia/KBCollectionHighlights">KBCollectionHighlights</a></td>
     <td>Code, data and stories related to the <a href="https://www.kb.nl/zoeken/content/categorie/topstuk">collection highlights of the KB</a>, the national library of the Netherlands</td>
     <td>
       <ul>

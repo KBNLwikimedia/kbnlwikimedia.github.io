@@ -31,7 +31,7 @@ Target audiences for these materials include:
 ## Wikipedia
 
 ### Introductie Wikipedia (basiscursus)
-<img src="media/img.png" align="right" hspace="0"  width="300"/>
+<img src="../media/img.png" align="right" hspace="0"  width="300"/>
 
 * **Korte omschrijving:** Wil je weten hoe Wikipedia werkt: zowel voor als achter de schermen? Ben je nieuwsgierig naar de kansen die Wikipedia biedt voor bibliotheken en erfgoedinstellingen als de KB? Misschien heb je wel eens gehoord over Wikimedia Commons of Wikidata en vraag je je af wat dat met Wikipedia te maken heeft. En hoe zit het met de gemeenschap achter Wikipedia? Met dit soort vragen is het een goed idee om deze cursus te volgen.
 * **Vorm:**  Interactieve presentatie van pm. 75 minuten
@@ -39,7 +39,7 @@ Target audiences for these materials include:
 * **Links:** [Beschrijving van deze cursus](https://zenodo.org/record/7664552) (Zenodo)
 
 ### Wikipedia voor openbare bibliotheken (inspiratiesessie)
-<img src="media/img2.png" align="right" hspace="0"  width="300"/>
+<img src="../media/img2.png" align="right" hspace="0"  width="300"/>
 
 * **Korte omschrijving:** Deze presentatie belicht de parallellen tussen de publieksdoelstellingen van openbare bibliotheken, 21e eeuwse vaardigheden en Wikipedia [o.b.v. dit document](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Wikipedia_in_de_Openbare_Bibliotheek/WaaromSamenwerken).<br/> *Voor veel mensen, ook in de bibliotheeksector, is Wikipedia vooral handig om snel feiten op te zoeken. Minder bekend is dat er achter deze site een netwerk van schrijvers, fotografen, programmeurs, data-analisten en andere makers actief is. Zij besteden veel tijd aan het verbeteren van de encyclopedie. Niet omdat het moet, maar omdat het leuk en leerzaam is. De vaardigheden die ze hiermee informeel ontwikkelen – o.a. onderzoeken, samenwerken, organiseren, programmeren of omgaan met kritiek - vertonen opvallende parallellen met de 21e-eeuwse vaardigheden.* 
 * **Vorm:**  Presentatie van pm. 30 minuten
@@ -49,7 +49,7 @@ Target audiences for these materials include:
 ## Wikimedia Commons 
 
 ### Workshop: Afbeeldingen uploaden naar Wikimedia Commons (basiscursus)
-<img src="media/img3.png" align="right" hspace="0"  width="300"/>
+<img src="../media/img3.png" align="right" hspace="0"  width="300"/>
 
 * **Korte omschrijving:** Uitleg over het uploaden van zelfgemaakte foto's naar Wikimedia Commons en het gebruik van deze foto's in artikelen op Wikipedia.
 * **Vorm:** Interactieve workshop van 2-3 uur
@@ -57,7 +57,7 @@ Target audiences for these materials include:
 * **Links:** [Impressie van deze workshop](https://commons.wikimedia.org/wiki/File:Uitleg_foto's_uploaden_Wikimedia_Commons,_Openbare_Bibliotheek_'s-Hertogenbosch.pdf) (PDF, Wikimedia Commons)
 
 ### Workshop: Ik zie ik zie wat jij niet ziet
-<img src="media/img4.png" align="right" hspace="0"  width="300"/>
+<img src="../media/img4.png" align="right" hspace="0"  width="300"/>
 
 * **Korte omschrijving:** In deze workshop leer je stap voor stap hoe je erfgoedafbeeldingen die op Wikimedia Commons staan beter vindbaar, zichtbaar en herbruikbaar maakt door aan te geven (te taggen) welke dingen (entiteiten) er te zien zijn op die afbeeldingen. Dit gebeurt door die dingen te verbinden met Wikidata-items.
 * **Vorm:**  Workshop - na een korte uitleg kunnen deelnemers onder begeleiding aan de slag met het taggen, en kunnen daar na de workshop zelfstandig mee verder.
@@ -67,7 +67,7 @@ Target audiences for these materials include:
 ## Wikidata
 
 ### Wegwijzer in Wikidata (basiscursus)
-<img src="media/img5.png" align="right" hspace="0"  width="300"/>
+<img src="../media/img5.png" align="right" hspace="0"  width="300"/>
 
 * **Korte omschrijving:** In deze cursus wordt je op basisniveau wegwijs (en enigszins zelfredzaam) gemaakt in de wereld van [Wikidata](https://www.wikidata.org/). Hierbij zullen zowel de technische als de community-aspecten de revue passeren.
 * **Vorm:** Presentatie van pm. 90 minuten (met eventueel een korte pauze)
@@ -75,7 +75,7 @@ Target audiences for these materials include:
 * **Links:** [Beschrijving van deze cursus](https://zenodo.org/record/8006441) (Zenodo) + [Overzicht van de onderwerpen die behandeld worden](https://kbnlwikimedia.github.io/Wikidata-General-Overview) (Github)
 
 ### Wikidata & de KB (verdieping)
-<img src="media/img6.png" align="right" hspace="0"  width="300"/>
+<img src="../media/img6.png" align="right" hspace="0"  width="300"/>
 
 * **Korte omschrijving:** Wil je weten waarom en hoe de KB Wikidata inzet om haar erfgoedcollecties beter zichtbaar, vindbaar en herbruikbaar te maken? Of wil je meer weten over de relatie tussen Wikidata en de KB-thesauri in data.bibliotheken.nl? Met dit soort vragen is het een goed idee om de verdiepende cursus "Wikidata & de KB" aan te vragen.
 * **Vorm:** Presentatie van pm. 75 minuten
@@ -83,7 +83,7 @@ Target audiences for these materials include:
 * **Links:** [Beschrijving van deze cursus](https://zenodo.org/records/10160817) (Zenodo) + [Overzicht van de onderwerpen die behandeld worden](https://kbnlwikimedia.github.io/Wikidata-KB-Overview/) (Github) 
 
 ### Binnenkort: Workshop SPARQL & Wikidata voor beginners
-<img src="media/img7.png" align="right" hspace="0"  width="300"/>
+<img src="../media/img7.png" align="right" hspace="0"  width="300"/>
 
 Deze workshop wordt momenteel nog niet aangeboden.
 * **Korte omschrijving:** In deze workshop leer je stap voor stap hoe je m.b.v. de [SPARQL-zoektaal](https://www.wikidata.org/wiki/Wikidata:SPARQL_tutorial) eenvoudige vragen kunt stellen aan Wikidata, en de zoekresultaten verder kunt verwerken. 
@@ -92,7 +92,7 @@ Deze workshop wordt momenteel nog niet aangeboden.
 * **Links:** Een beschrijving van deze cursus wordt z.s.m. toegevoegd.
 
 ### Workshop: Kaarten maken met Wikidata (geavanceerd)
-<img src="media/img8.png" align="right" hspace="0"  width="300"/>
+<img src="../media/img8.png" align="right" hspace="0"  width="300"/>
 
 * **Korte omschrijving:** Je leert hoe je zowel platte, geclusterde, gelaagde, ingebedde, interactieve, on-Wiki en off-Wiki-kaarten kunt maken uit datasets van geo-gerefereerde items in Wikidata.
 * **Vorm:** Interactieve workshop van 90-120 minuten
@@ -102,7 +102,7 @@ Deze workshop wordt momenteel nog niet aangeboden.
 ## Wikibase
 
 ### Basiscursus Wikibase
-<img src="media/img9.png" align="right" hspace="0"  width="300"/>
+<img src="../media/img9.png" align="right" hspace="0"  width="300"/>
 
 * **Korte omschrijving:** Als je wel eens iets met Wikidata gedaan hebt, is er grote kans dat je de term "Wikibase" wel eens bent tegengekomen. Maar wat is Wikibase precies? En wat is de relatie tussen Wikidata en Wikibase? Welke (on)mogelijkheden biedt deze software voor de KB en andere instellingen in binnen- en buitenland? En hoe zit het met de community rondom Wikibase? 
 Deze cursus is een vervolg op introductiesessie Wegwijzer in Wikidata.
@@ -113,7 +113,7 @@ Deze cursus is een vervolg op introductiesessie Wegwijzer in Wikidata.
 ## OpenRefine
 
 ### Workshop: Introductie OpenRefine & Wikidata
-<img src="media/img10.png" align="right" hspace="0"  width="300"/>
+<img src="../media/img10.png" align="right" hspace="0"  width="300"/>
 
 * **Korte omschrijving:** [OpenRefine](https://openrefine.org/) is een bekende tool voor het bewerken, verrijken en manipuleren van data. Het wordt veel gebruikt binnen de Wikimedia-gemeenschap om gegevens aan Wikidata toe te voegen.<br/> 
 In deze workshop leer je de basisprincipes van het werken met OpenRefine om data te bewerken en toe te voegen aan Wikidata. Je leert hoe je een OpenRefine-project aanmaakt, hoe je data kunt manipuleren en verrijken, en hoe je deze gegevens koppelt met databases zoals Wikidata, NTA of VIAF.
@@ -122,7 +122,7 @@ In deze workshop leer je de basisprincipes van het werken met OpenRefine om data
 * **Links:** [Volledige beschrijving van deze workshop](https://kbnlwikimedia.github.io/OpenRefine-Introduction-Workshop/) (Github)
 
 ### Workshop: OpenRefine & Wikimedia Commons
-<img src="media/img11.png" align="right" hspace="0"  width="300"/>
+<img src="../media/img11.png" align="right" hspace="0"  width="300"/>
 
 * **Korte omschrijving:** In deze workshop leer je hoe je OpenRefine gebruikt om nieuwe afbeeldingen met reguliere bestandsbeschrijvingen (Wikitext) en gestructureerde gegevens aan Wikimedia Commons toe te voegen. Ook leer je hoe je gestructureerde gegevens aan bestaande Commons-bestanden kunt toevoegen met behulp van OpenRefine.
 * **Vorm:** Interactieve workshop van 60-90 minuten
