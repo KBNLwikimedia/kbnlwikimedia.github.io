@@ -7,16 +7,17 @@
 <img src="media/wikimedia-logos.png" align="right" width="300" hspace="0">
 <br clear="all"/>
 
-# Overview of KB-Wikimedia materials on Github
+# Overview of Wikimedia-related materials of the national library of the Netherlands on Github
 
-XXXXXXXXXXXXXXXXXXX
-Welcome to the Github page of the Koninklijke Bibliotheek (KB) and Wikimedia collaboration. This page provides an overview of the materials related to the KB-Wikimedia collaboration that are hosted on Github.
+Welcome to the Wikimedia-related Github pages of the Koninklijke Bibliotheek (KB). This page provides an overview of the materials related to the Wikimedia effort of the KB, as far as these are hosted on Github.
 
-The KB is the national library of the Netherlands and is a partner of Wikimedia in the Netherlands. The KB has been involved in Wikimedia projects since 2011. The KB also collaborates with Wikimedia on various projects related to Wikidata, Wikibase, and other Wikimedia platforms.
+The KB is the [national library of the Netherlands](https://www.kb.nl/en) and has been a partner of the Wikimedia and [GLAM-Wiki](https://outreach.wikimedia.org/wiki/GLAM) movements since 2011. The KB has mainly been working on Wikipedia, Wikimedia Commons, Wikidata and Wikibase.
 
-Please note this Github page is a work in progress. The KB and Wikimedia are continuously working on new projects and materials, so this page will be updated regularly.
+Please note that these Github pages
+*  Are work in progress. The KB and Wikimedia are continuously working on new projects and materials, so this site will be updated regularly.
+* Do not represent all Wikimedia related materials of the KB. See the section below for an overview of more KB-Wikimedia materials available on other platforms.
 
-Also note that this overviews does not reprent all Wikimedia related materials of the KB. See the section below for an overview of KB-Wikimedia materials available on other platforms.
+Contact and questions: Drop the [Wikimedia-coordinator](https://www.kb.nl/over-ons/experts/olaf-janssen) of the KB a line! 
 
 -------------
 
@@ -41,7 +42,7 @@ See Wikimedia Commons for [more KB workshop and course materials](https://common
 
 <img src="media/building-columns.svg" align="left" width="80" hspace="20" vspace="20"/>
 
-## Projects (mainly non-code)
+## Collection projects (mainly non-code)
 Overview of [Github repos](https://kbnlwikimedia.github.io/projects/index.html) for for collection related projects of the KB.
 <br clear="all"/>
 
