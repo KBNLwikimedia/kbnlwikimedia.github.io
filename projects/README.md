@@ -40,15 +40,14 @@
   </tr>
   <tr>
     <td><img src="../media/Alba_amicorum_KB_Banner_Wikimedia_EN.jpg" width="400"/><br/><a target="_blank" href="https://github.com/KBNLwikimedia/Alba-Amicorum">Alba-Amicorum</a></td>
-    <td>Repo for code, data and images related to the alba amicorum of the KB on Wikimedia</td>
+    <td>Repo for code, data and images related to the <a target="_blank" href="https://geheugen.delpher.nl/nl/geheugen/pages/collectie/Alba+amicorum+van+de+KB">alba amicorum of the KB</a> on Wikimedia</td>
     <td><ul>
         <li><a target="_blank" href="https://www.wikidata.org/wiki/Wikidata:WikiProject_Alba_amicorum_National_Library_of_the_Netherlands">Wikidata project</a></li><li><a target="_blank" href="https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/Projecten#Alba_amicorum">Dutch Wikipedia project page</a></li>
         <li><a target="_blank" href="https://commons.wikimedia.org/wiki/Category:Alba_amicorum_from_Koninklijke_Bibliotheek">Commons category</a></li><li><a target="_blank" href="https://commons.wikimedia.org/wiki/Koninklijke_Bibliotheek/Alba_amicorum">Commons gallery</a></li>
       </ul></td>
   </tr>
   <tr>
-    <td><img src="../media/Kinderprentenboeken_KB_Banner_Wikimedia_EN.jpg" width="400"/><br/><a target="_blank" href="https://github.com/KBNLwikimedia/KBChildrensPictureBooks">KBChildrensPictureBooks</a></td>
-    <td>Repo for code, data and images related to children's picture books of the KB on Wikimedia </td>
+    <td><img src="../media/Kinderprentenboeken_KB_Banner_Wikimedia_EN.jpg" width="400"/><br/><a target="_blank" href="https://github.com/KBNLwikimedia/KBChildrensPictureBooks">KBChildrensPictureBooks</a></td><td>Repo for code, data and images related to <a target="_blank" href="https://geheugen.delpher.nl/nl/geheugen/pages/collectie/Prentenboeken+van+1810+tot+1950">children's picture books of the KB</a> on Wikimedia </td>
     <td><ul>
         <li><a target="_blank" href="https://www.wikidata.org/wiki/Wikidata:WikiProject_Children%27s_picture_books_National_Library_of_the_Netherlands">Wikidata project</a></li>
         <li><a target="_blank" href="https://commons.wikimedia.org/wiki/Category:Picture_books_from_Koninklijke_Bibliotheek">Commons category</a></li><li><a target="_blank" href="https://commons.wikimedia.org/wiki/Koninklijke_Bibliotheek/Books/Picture_books">Commons gallery</a></li>
@@ -56,7 +55,7 @@
   </tr>
   <tr>
     <td><img src="../media/WikimediaCommonsMiscellaneousKBimageSets_banner.jpg" width="400"/><br/><a target="_blank" href="https://github.com/KBNLwikimedia/WikimediaCommonsMiscellaneousKBimageSets">WikimediaCommonsMiscellaneousKBimageSets</a></td>
-    <td>Repo related to miscellaneous KB image sets on Wikimedia Commons, other then collection highlights, medieval manuscripts, alba amicorum or children's books</td>
+    <td>Repo related to miscellaneous KB image sets on Wikimedia Commons, other than collection highlights, medieval manuscripts, alba amicorum or children's books</td>
     <td><ul>
         <li><a target="_blank" href="https://commons.wikimedia.org/wiki/Category:Koninklijke_Bibliotheek,_Netherlands">Commons category</a></li><li><a target="_blank" href="https://commons.wikimedia.org/wiki/Koninklijke_Bibliotheek">Commons gallery</a></li>
       </ul></td>
@@ -66,7 +65,7 @@
     <td>Repo for the Wikidata project to create linked open data for the most important Dutch language literary awards </td>
     <td><ul>
         <li><a target="_blank" href="https://www.wikidata.org/wiki/Wikidata:WikiProject_Dutch_Literary_Awards">Wikidata project</a></li>
-        <li><a target="_blank" href="https://www.wikidata.org/wiki/Wikidata:WikiProject_Dutch_Literary_Awards/Authors">Three fully described awards winning authors</a></li>
+        <li><a target="_blank" href="https://www.wikidata.org/wiki/Wikidata:WikiProject_Dutch_Literary_Awards/Authors">Three fully described award winning authors</a></li>
       </ul></td>
   </tr>
   <tr>
