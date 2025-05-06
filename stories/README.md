@@ -106,7 +106,7 @@ In this [series of 5 articles](https://kbnlwikimedia.github.io/KBCollectionHighl
 
 *8 June 2020* 
 
-*Dutch Wikipedia contains some 20.000 citations to Delpher, a digital historical newspaper archive in the Netherlands. Many of those URLs are sustainable, but until recently Dutch Wikipedia also contained thousands of non-future-proof links to Delpher. In this article I show how I found these links and replaced them with persistent URLs, and what the benefits of this search-and-replace operation are.*
+Dutch Wikipedia contains some 20.000 citations to Delpher, a digital historical newspaper archive in the Netherlands. Many of those URLs are sustainable, but until recently Dutch Wikipedia also contained thousands of non-future-proof links to Delpher. In this article I show how I found these links and replaced them with persistent URLs, and what the benefits of this search-and-replace operation are.
 
 ## [Detecting Wikipedia articles strongly based on single library collections](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Detecting%20Wikipedia%20articles%20strongly%20based%20on%20single%20library%20collections.html)
 
