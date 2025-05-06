@@ -96,6 +96,18 @@ The KB regularly uploads images from its heritage collections - atlases, medieva
 
 In this [series of 5 articles](https://kbnlwikimedia.github.io/KBCollectionHighlights/stories/Cool%20new%20things%20you%20can%20now%20do%20with%20the%20KB's%20collection%20highlights/) we show the added value of putting images and metadata of [digitised collection highlights](https://www.kb.nl/zoeken/content/categorie/topstuk) of the KB, national library of the Netherlands, into the Wikimedia infrastructure. By putting our collection highlights into Wikidata, Wikimedia Commons and Wikipedia, dozens of new functionalities have been added. As a result of Wikifying this collection, you can now do things with these highlights that were not possible before.
 
+
+## [Making references to Dutch newspapers in Wikipedia more sustainable](https://kbnlwikimedia.github.io/WikimediaKBURLReplacement/stories/Making%20references%20to%20Dutch%20newspapers%20in%20Wikipedia%20more%20sustainable.html)
+
+<a href="https://kbnlwikimedia.github.io/WikimediaKBURLReplacement/stories/Making%20references%20to%20Dutch%20newspapers%20in%20Wikipedia%20more%20sustainable.html" >
+<img src="../media/Making-references-to-Dutch-newspapers-in-Wikipedia-more-sustainable.jpg" align="right" width="400" hspace="10" vspace="5"></a>
+
+**Keywords:** Dutch Wikipedia, Delpher, digital sustainability, persistent URLs
+
+*8 June 2020* 
+
+*Dutch Wikipedia contains some 20.000 citations to Delpher, a digital historical newspaper archive in the Netherlands. Many of those URLs are sustainable, but until recently Dutch Wikipedia also contained thousands of non-future-proof links to Delpher. In this article I show how I found these links and replaced them with persistent URLs, and what the benefits of this search-and-replace operation are.*
+
 ## [Detecting Wikipedia articles strongly based on single library collections](https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Detecting%20Wikipedia%20articles%20strongly%20based%20on%20single%20library%20collections.html)
 
 <a href="https://kbnlwikimedia.github.io/KB-Wiki-Stats-Graphs/stories/Detecting%20Wikipedia%20articles%20strongly%20based%20on%20single%20library%20collections.html" >
