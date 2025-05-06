@@ -33,10 +33,10 @@ Import [structured data](https://commons.wikimedia.org/wiki/Commons:Structured_d
 * [Github repo](https://github.com/KBNLwikimedia/dict2sdc)
 * [Structured Data on Commons efforts](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek/SDoC) of the KB
 
-## [WikimediaKBURLReplacement](https://github.com/KBNLwikimedia/WikimediaKBURLReplacement)
+## [WikimediaKBURLReplacement](https://kbnlwikimedia.github.io/WikimediaKBURLReplacement/)
 Code, scripts and stories about replacing outdated or non-persistent URLs of KB services in Wikipedia, Wikimedia Commons and Wikidata
 * [Github repo](https://github.com/KBNLwikimedia/WikimediaKBURLReplacement)
-* Story: [Making references to Dutch newspapers in Wikipedia more sustainable]()
+* Story: [Making references to Dutch newspapers in Wikipedia more sustainable](https://kbnlwikimedia.github.io/WikimediaKBURLReplacement/stories/Making%20references%20to%20Dutch%20newspapers%20in%20Wikipedia%20more%20sustainable.html)
 
 
 ## https://github.com/KBNLwikimedia/wikipedia-utils
