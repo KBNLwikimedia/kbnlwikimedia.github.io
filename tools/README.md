@@ -38,18 +38,23 @@ Code, scripts and stories about replacing outdated or non-persistent URLs of KB 
 * [Github repo](https://github.com/KBNLwikimedia/WikimediaKBURLReplacement)
 * Story: [Making references to Dutch newspapers in Wikipedia more sustainable](https://kbnlwikimedia.github.io/WikimediaKBURLReplacement/stories/Making%20references%20to%20Dutch%20newspapers%20in%20Wikipedia%20more%20sustainable.html)
 
+## [OpenRefine-Wikibase](https://github.com/KBNLwikimedia/OpenRefine-Wikibase)
+Files for interaction between OpenRefine and KB Wikibases, for reconciling and uploading data to Wikibases of the KB, using Openfine 
+* [Github repo](https://github.com/KBNLwikimedia/OpenRefine-Wikibase)
+* Relevant presentation: [Setting up your own Wikibase reconciliation service (e.g. for OpenRefine)](https://zenodo.org/record/10078805) (Zenodo, november 2023)
 
-## https://github.com/KBNLwikimedia/wikipedia-utils
-
-## https://github.com/KBNLwikimedia/OpenRefine-Wikibase
-
-
+## [wikipedia-utilities](https://github.com/KBNLwikimedia/wikipedia-utils)
+Utility scripts for working with Wikipedia data dumps 
+* [Github repo](https://github.com/KBNLwikimedia/wikipedia-utils)
 
 ## Non-Wikimedia tools, but still handy
 
-## [Videotools] - 
-* https://kbnlresearch.github.io/videotools/
-* https://github.com/KBNLresearch/videotools
-  -- https://kbnlresearch.github.io/videotools/stories/How%20to%20create%20high-quality%20offline%20video%20transcriptions%20and%20subtitles%20using%20Whisper%20and%20Python.html
+### [SaveToWaybackMachine](https://github.com/ookgezellig/SaveToWaybackMachine)
+Saving URLs of webpages of the KB in bulk to the Wayback Machine of The Internet Archive. Some websites managed by the KB, national library of the Netherlands, have been or will be discontinued. To preserve the content of these sites (e.g. for sourcing Wikipedia articles or cultural heritage preservation purposes) the KB actively submits websites to the The Wayback Machine [web.archive.org](https://web.archive.org/).
+* [Github repo](https://github.com/ookgezellig/SaveToWaybackMachine)
 
-## [WaybackMachine] - https://github.com/ookgezellig/SaveToWaybackMachine
+### [videotools](https://kbnlresearch.github.io/videotools/) 
+A collection of video and audio processing tools
+* [Github repo](https://github.com/KBNLresearch/videotools)
+* Story: [How to create high-quality offline video transcriptions and subtitles using Whisper and Python](https://kbnlresearch.github.io/videotools/stories/How%20to%20create%20high-quality%20offline%20video%20transcriptions%20and%20subtitles%20using%20Whisper%20and%20Python.html)
+
