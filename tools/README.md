@@ -54,7 +54,17 @@ Saving URLs of webpages of the KB in bulk to the Wayback Machine of The Internet
 * [Github repo](https://github.com/ookgezellig/SaveToWaybackMachine)
 
 ### [videotools](https://kbnlresearch.github.io/videotools/) 
-A collection of video and audio processing tools
+A collection of video and audio processing tools. 
+* This repo performs various operations on video and audio files, including:
+  * Extracting short video clips from longer ones.
+  * Enhancing audio by adjusting pitch and volume, eg. for a deeper voice.
+  * Compressing and converting video files to WebM format.
+  * Extracting audio from a video and saving it as an MP3 file.
+  * Amplifying audio if necessary.
+  * Transcribing audio using Whisper.
+  * Correcting raw audio transcripts using ChatGPT.
+  * Embedding subtitles into the WebM video files.
+
 * [Github repo](https://github.com/KBNLresearch/videotools)
 * Story: [How to create high-quality offline video transcriptions and subtitles using Whisper and Python](https://kbnlresearch.github.io/videotools/stories/How%20to%20create%20high-quality%20offline%20video%20transcriptions%20and%20subtitles%20using%20Whisper%20and%20Python.html)
 
