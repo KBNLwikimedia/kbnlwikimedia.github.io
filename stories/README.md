@@ -14,15 +14,15 @@
 # Overview of (data) stories on Github related to the Wikimedia effort of the KB
 <br clear="all"/>
 
-## [Free to use? Exploring public domain claims in Wikimedia Commons files sourced from Delpher (May 2025)](https://kbnlwikimedia.github.io/wikimedia-commons_copyright-templates/stories/Free%20to%20use%20-%20Exploring%20public%20domain%20claims%20in%20Wikimedia%20Commons%20files%20sourced%20from%20Delpher%20(May%202025).html)
+## [Free to use? Exploring public domain claims in Wikimedia Commons files sourced from Delpher](https://kbnlwikimedia.github.io/wikimedia-commons_copyright-templates/stories/Free%20to%20use%20-%20Exploring%20public%20domain%20claims%20in%20Wikimedia%20Commons%20files%20sourced%20from%20Delpher.html) (June 2025)
 
-<a href="https://kbnlwikimedia.github.io/wikimedia-commons_copyright-templates/stories/Free%20to%20use%20-%20Exploring%20public%20domain%20claims%20in%20Wikimedia%20Commons%20files%20sourced%20from%20Delpher%20(May%202025).html">article</a>
+<a href="https://kbnlwikimedia.github.io/wikimedia-commons_copyright-templates/stories/Free%20to%20use%20-%20Exploring%20public%20domain%20claims%20in%20Wikimedia%20Commons%20files%20sourced%20from%20Delpher.html">article</a>
 
 <img src="../media/toadd.jpg" align="right" width="400" hspace="10" vspace="5">
 
 **Keywords:** Delpher, copyright, public domain, Wikimedia Commons, KB
 
-*May 2025*
+*June 2025*
 
  [Delpher](https://www.delpher.nl) offers access to millions of digitized pages from Dutch historical newspapers, books, and magazines — a valuable resource frequently used on Wikimedia Commons. In the first part of this data story, we examine how the Wikimedia community has assigned public domain status to Commons files that have been sourced from Delpher.<br/>
 In the second part, we explore the validity of these claims and assess whether they align with the actual copyright status of the works. We identify common mistakes made by the Wikimedia community when applying public domain templates to files. Finally, we examine whether these errors have resulted in any serious copyright violations.

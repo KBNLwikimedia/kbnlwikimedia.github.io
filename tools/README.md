@@ -22,6 +22,11 @@ Creates a datestamped HTML report and a corresponding Excel file listing all Wik
 * [Commons category](https://commons.wikimedia.org/wiki/Category:GLAMorousToHTML)
 * Story: [Public outreach and reuse of KB images via Wikipedia, 2014-2022](https://kbnlwikimedia.github.io/GLAMorousToHTML/stories/Public%20outreach%20and%20reuse%20of%20KB%20images%20via%20Wikipedia%2C%202014-2022.html)
 
+## [Wikimedia Commons copyright template extractor](https://kbnlwikimedia.github.io/wikimedia-commons_copyright-templates/)
+Identifies public domain (PD) or PD-like (Creative Commons) license templates in Wikimedia Commons files, alongside simplified creation/publication dates.
+* [Github repo](https://github.com/KBNLwikimedia/wikimedia-commons_copyright-templates/)
+* Story: [Free to use? Exploring public domain claims in Wikimedia Commons files sourced from Delpher](https://kbnlwikimedia.github.io/wikimedia-commons_copyright-templates/stories/Free%20to%20use%20-%20Exploring%20public%20domain%20claims%20in%20Wikimedia%20Commons%20files%20sourced%20from%20Delpher.html) (June 2025)
+
 ## [WriteSDoCfromExcel](https://github.com/KBNLwikimedia/SDoC/tree/main/writeSDoCfromExcel)
 Adds [structured data](https://commons.wikimedia.org/wiki/Commons:Structured_data) to files on Wikimedia Commons from an Excel sheet. A Python script that writes Property-Qid pairs from an Excel to the structured data of files on Wikimedia Commons. 
 * [Github repo](https://github.com/KBNLwikimedia/SDoC/tree/main/writeSDoCfromExcel)
