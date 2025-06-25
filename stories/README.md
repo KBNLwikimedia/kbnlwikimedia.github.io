@@ -14,9 +14,9 @@
 # Overview of (data) stories on Github related to the Wikimedia effort of the KB
 <br clear="all"/>
 
-## [Public outreach and reuse of Delpher images via Wikipedia and Wikimedia Commons, July 2025](https://kbnlwikimedia.github.io/GLAMorousToHTML/stories/Public%20outreach%20and%20reuse%20of%20Delpher%20images%20via%20Wikipedia%20and%20Wikimedia%20Commons%2C%20July%202025.html )
+## [Public outreach and reuse of Delpher images via Wikipedia and Wikimedia Commons, July 2025](https://kbnlwikimedia.github.io/GLAMorousToHTML/stories/Public%20outreach%20and%20reuse%20of%20Delpher%20images%20via%20Wikipedia%20and%20Wikimedia%20Commons,%20July%202025.html )
 
-<a href="https://kbnlwikimedia.github.io/GLAMorousToHTML/stories/Public%20outreach%20and%20reuse%20of%20Delpher%20images%20via%20Wikipedia%20and%20Wikimedia%20Commons%2C%20July%202025.html" >
+<a href="https://kbnlwikimedia.github.io/GLAMorousToHTML/stories/Public%20outreach%20and%20reuse%20of%20Delpher%20images%20via%20Wikipedia%20and%20Wikimedia%20Commons,%20July%202025.html" >
 <img src="../media/toadd.jpg" align="right" width="400" hspace="10" vspace="5"></a>
 
 **Keywords:** Delpher images, public outreach, reuse, Wikipedia, Wikimedia Commons 
