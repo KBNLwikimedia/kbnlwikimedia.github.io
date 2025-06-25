@@ -14,11 +14,24 @@
 # Overview of (data) stories on Github related to the Wikimedia effort of the KB
 <br clear="all"/>
 
+## [Publieksbereik en hergebruik van Delpher-afbeeldingen via Wikipedia, juli 2025 ](https://kbnlwikimedia.github.io/GLAMorousToHTML/stories/Publieksbereik%20en%20hergebruik%20van%20Delpher-afbeeldingen%20via%20Wikipedia%2C%20juli%202025.html)
+
+<a href="https://kbnlwikimedia.github.io/wikimedia-commons_copyright-templates/stories/Free%20to%20use%20-%20Exploring%20public%20domain%20claims%20in%20Wikimedia%20Commons%20files%20sourced%20from%20Delpher.html" >
+<img src="../media/toadd.jpg" align="right" width="400" hspace="10" vspace="5"></a>
+
+**Keywords:** Delpher, Wikipedia, Wikimedia Commons, public outreach, reuse, KB
+
+*July 2025*
+
+ In het Engels: [Delpher](https://www.delpher.nl) biedt toegang tot miljoenen gedigitaliseerde pagina's uit Nederlandse historische kranten, boeken en tijdschriften. Het is een veelgebruikte bron in de Nederlandstalige Wikipedia. 
+Nadat we eerder keken naar [Delpher-URLs in WP:NL]() en naar het Publieksbereik en hergebruik van  [afbeeldingen uit de KB-efgoedcollecteis]() via WP, kijken we nu naar het gebruik van Delpher-afbeeldingen in Wikipedia.
+In dit artikel bekijken we xxxxxx. (This article is in Dutch)
+
+
 ## [Free to use? Exploring public domain claims in Wikimedia Commons files sourced from Delpher](https://kbnlwikimedia.github.io/wikimedia-commons_copyright-templates/stories/Free%20to%20use%20-%20Exploring%20public%20domain%20claims%20in%20Wikimedia%20Commons%20files%20sourced%20from%20Delpher.html) (June 2025)
 
-<a href="https://kbnlwikimedia.github.io/wikimedia-commons_copyright-templates/stories/Free%20to%20use%20-%20Exploring%20public%20domain%20claims%20in%20Wikimedia%20Commons%20files%20sourced%20from%20Delpher.html">article</a>
-
-<img src="../media/toadd.jpg" align="right" width="400" hspace="10" vspace="5">
+<a href="https://kbnlwikimedia.github.io/wikimedia-commons_copyright-templates/stories/Free%20to%20use%20-%20Exploring%20public%20domain%20claims%20in%20Wikimedia%20Commons%20files%20sourced%20from%20Delpher.html" >
+<img src="../media/toadd.jpg" align="right" width="400" hspace="10" vspace="5"></a>
 
 **Keywords:** Delpher, copyright, public domain, Wikimedia Commons, KB
 
