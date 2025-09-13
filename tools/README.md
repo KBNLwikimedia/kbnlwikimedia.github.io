@@ -21,7 +21,7 @@ Creates a datestamped HTML report and a corresponding Excel file listing all Wik
 * [Tool page on Commons](https://commons.wikimedia.org/wiki/Commons:GLAMorousToHTML)
 * [Commons category](https://commons.wikimedia.org/wiki/Category:GLAMorousToHTML)
 * Story: [Public outreach and reuse of KB images via Wikipedia, 2014-2022](https://kbnlwikimedia.github.io/GLAMorousToHTML/stories/Public%20outreach%20and%20reuse%20of%20KB%20images%20via%20Wikipedia%2C%202014-2022.html)
-* <a href="https://kbnlwikimedia.github.io/GLAMorousToHTML/extras/delpher_humans_q5_gallery.html" target="_blank"><image src="https://kbnlwikimedia.github.io/GLAMorousToHTML/extras/media/wikipedia-delpher-portrait-explorer_20250912.jpg" hspace="10" align="right" width="150"/></a>
+* <a href="https://kbnlwikimedia.github.io/GLAMorousToHTML/extras/delpher_humans_q5_gallery.html" target="_blank"><image src="https://kbnlwikimedia.github.io/GLAMorousToHTML/extras/media/wikipedia-delpher-portrait-explorer_20250912.jpg" hspace="10" align="right" width="250"/></a>
 Product: [Wikipedia ❤️ Delpher - Portrait explorer](https://kbnlwikimedia.github.io/GLAMorousToHTML/extras/delpher_humans_q5_gallery.html), a visual exploration of notable individuals in Wikipedia, illustrated by Delpher.<br/>
  It allows you to explore humans who are described in Wikipedia articles illustrated by [Delpher images](https://commons.wikimedia.org/wiki/Category:Media_from_Delpher). You can do so by occupation, gender, country of citizenship, decades of birth and death and Wikipedia language version.<br/>
 
