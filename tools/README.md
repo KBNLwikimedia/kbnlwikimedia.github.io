@@ -35,22 +35,22 @@ Code, scripts and stories about dealing with [structured data](https://commons.w
 
 More info about [Structured Data on Commons efforts](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek/SDoC) of the KB.
 
-### [Wikimedia Commons category Depicts (P180) extractor](https://github.com/KBNLwikimedia/SDoC/tree/main/wmc-category-depicts-extractor)
+### - [Wikimedia Commons category Depicts (P180) extractor](https://github.com/KBNLwikimedia/SDoC/tree/main/wmc-category-depicts-extractor)
 Lists all things depicted in all images in a Wikimedia Commons category 
 * [Github repo](https://github.com/KBNLwikimedia/SDoC/tree/main/wmc-category-depicts-extractor)
 
-### [WriteSDoCfromExcel](https://github.com/KBNLwikimedia/SDoC/tree/main/writeSDoCfromExcel)
+### - [WriteSDoCfromExcel](https://github.com/KBNLwikimedia/SDoC/tree/main/writeSDoCfromExcel)
 Adds Wikidata QIDs to the structured data for one or more properties (e.g., **P180 – depicts**, **P170 – creator**) on Wikimedia Commons files from an Excel sheet.
 * [Github repo](https://github.com/KBNLwikimedia/SDoC/tree/main/writeSDoCfromExcel)
 * [Tool page on Commons](https://commons.wikimedia.org/wiki/Commons:WriteSDoCfromExcel)
 
-### [Delpher-Commons structured data tools](https://github.com/KBNLwikimedia/SDoC/tree/main/delpher-urls-from-wikitext-to-sdc) - TO UPDATE!!
+### - [Delpher-Commons structured data tools](https://github.com/KBNLwikimedia/SDoC/tree/main/delpher-urls-from-wikitext-to-sdc) - TO UPDATE!!
 Tools to add, update, improve an manage structured data for [Delpher files on Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Media_from_Delpher) on wikimedia Commons
 * [Github repo](https://github.com/KBNLwikimedia/SDoC/tree/main/delpher-urls-from-wikitext-to-sdc)
   - To add: extract-delpher-urls-from-wikitext.py
   - To add: add-delpher-urls-to-sdc.py
 
-### [dict2sdc](https://github.com/KBNLwikimedia/SDoC/tree/main/dict2sdc)
+### - [dict2sdc](https://github.com/KBNLwikimedia/SDoC/tree/main/dict2sdc)
 Import [structured data](https://commons.wikimedia.org/wiki/Commons:Structured_data) to Wikimedia Commons using [Pywikibot](https://www.mediawiki.org/wiki/Manual:Pywikibot). Read data from a dict.csv file and add it as structured data to Wikimedia Commons.
 * [Github repo](https://github.com/KBNLwikimedia/SDoC/tree/main/dict2sdc)
 
