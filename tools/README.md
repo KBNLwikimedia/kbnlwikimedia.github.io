@@ -45,7 +45,7 @@ Adds Wikidata QIDs to the structured data for one or more properties (e.g., **P1
 * [Tool page on Commons](https://commons.wikimedia.org/wiki/Commons:WriteSDoCfromExcel)
 
 ### - [Delpher-Commons structured data tools](https://github.com/KBNLwikimedia/SDoC/tree/main/delpher-urls-from-wikitext-to-sdc) - TO UPDATE!!
-Tools to add, update, improve an manage structured data for [Delpher files on Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Media_from_Delpher) on wikimedia Commons
+Tools to add, update, improve an manage structured data for [Delpher files on Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Media_from_Delpher)
 * [Github repo](https://github.com/KBNLwikimedia/SDoC/tree/main/delpher-urls-from-wikitext-to-sdc)
   - To add: extract-delpher-urls-from-wikitext.py
   - To add: add-delpher-urls-to-sdc.py
