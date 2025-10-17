@@ -30,16 +30,30 @@ Identifies public domain (PD) or PD-like (Creative Commons) license templates in
 * [Github repo](https://github.com/KBNLwikimedia/wikimedia-commons_copyright-templates/)
 * Story: [Free to use? Exploring public domain claims in Wikimedia Commons files sourced from Delpher](https://kbnlwikimedia.github.io/wikimedia-commons_copyright-templates/stories/Free%20to%20use%20-%20Exploring%20public%20domain%20claims%20in%20Wikimedia%20Commons%20files%20sourced%20from%20Delpher.html) (June 2025)
 
-## [WriteSDoCfromExcel](https://github.com/KBNLwikimedia/SDoC/tree/main/writeSDoCfromExcel)
-Adds [structured data](https://commons.wikimedia.org/wiki/Commons:Structured_data) to files on Wikimedia Commons from an Excel sheet. A Python script that writes Property-Qid pairs from an Excel to the structured data of files on Wikimedia Commons. 
+## [Wikimedia Commons structured data tools](https://github.com/KBNLwikimedia/SDoC)
+See also the [Structured Data on Commons efforts](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek/SDoC) of the KB
+
+### [Wikimedia Commons category Depicts (P180) extractor](https://github.com/KBNLwikimedia/SDoC/tree/main/wmc-category-depicts-extractor)
+Lists all things depicted in all images in a Wikimedia Commons category 
+* [Github repo](https://github.com/KBNLwikimedia/SDoC/tree/main/wmc-category-depicts-extractor)
+
+### [WriteSDoCfromExcel](https://github.com/KBNLwikimedia/SDoC/tree/main/writeSDoCfromExcel)
+Adds Wikidata QIDs to the [structured data](https://commons.wikimedia.org/wiki/Commons:Structured_data) for one or more properties (e.g., **P180 – depicts**, **P170 – creator**) on Wikimedia Commons files from an Excel sheet.
 * [Github repo](https://github.com/KBNLwikimedia/SDoC/tree/main/writeSDoCfromExcel)
 * [Tool page on Commons](https://commons.wikimedia.org/wiki/Commons:WriteSDoCfromExcel)
-* [Structured Data on Commons efforts](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek/SDoC) of the KB
 
-## [dict2sdc](https://github.com/KBNLwikimedia/dict2sdc)
+### [Delpher-Commons structured data tools](https://github.com/KBNLwikimedia/SDoC/tree/main/delpher-urls-from-wikitext-to-sdc) - TO UPDATE!!
+Tools to add, update, improve an manage structured data for [Delpher files on Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Media_from_Delpher) on wikimedia Commons
+* [Github repo](https://github.com/KBNLwikimedia/SDoC/tree/main/delpher-urls-from-wikitext-to-sdc)
+  - To add: extract-delpher-urls-from-wikitext.py
+  - To add: add-delpher-urls-to-sdc.py
+
+
+
+### [dict2sdc](https://github.com/KBNLwikimedia/SDoC/tree/main/dict2sdc)
 Import [structured data](https://commons.wikimedia.org/wiki/Commons:Structured_data) to Wikimedia Commons using [Pywikibot](https://www.mediawiki.org/wiki/Manual:Pywikibot). Read data from a dict.csv file and add it as structured data to Wikimedia Commons.
-* [Github repo](https://github.com/KBNLwikimedia/dict2sdc)
-* [Structured Data on Commons efforts](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek/SDoC) of the KB
+* [Github repo](https://github.com/KBNLwikimedia/SDoC/tree/main/dict2sdc)
+
 
 ## [WikimediaKBURLReplacement](https://kbnlwikimedia.github.io/WikimediaKBURLReplacement/)
 Code, scripts and stories about replacing outdated or non-persistent URLs of KB services in Wikipedia, Wikimedia Commons and Wikidata
