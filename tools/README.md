@@ -14,7 +14,9 @@
 # Overview of tools and scripts on Github related to the Wikimedia effort of the KB
 <br clear="all"/>
 
-## [GLAMorousToHTML](https://kbnlwikimedia.github.io/GLAMorousToHTML/)
+## Wikimedia Commons tools
+
+### [GLAMorousToHTML](https://kbnlwikimedia.github.io/GLAMorousToHTML/)
 Creates a datestamped HTML report and a corresponding Excel file listing all Wikipedia articles (in all languages) in which (one or more) images from a given category tree on Wikimedia Commons are used. 
 * [GLAM reports](https://kbnlwikimedia.github.io/GLAMorousToHTML/reports/reports.html) created by this tool
 * [Github repo](https://github.com/KBNLwikimedia/GLAMorousToHTML)
@@ -25,35 +27,34 @@ Creates a datestamped HTML report and a corresponding Excel file listing all Wik
 Prototype: [Wikipedia ❤️ Delpher - Portrait explorer](https://kbnlwikimedia.github.io/GLAMorousToHTML/extras/delpher_humans_q5_gallery.html), a visual exploration of notable individuals in Wikipedia, illustrated by Delpher.<br/>
  It allows you to explore humans who are described in Wikipedia articles illustrated by [Delpher images](https://commons.wikimedia.org/wiki/Category:Media_from_Delpher). You can do so by occupation, gender, country of citizenship, decades of birth and death and Wikipedia language version. For instance: a [female opera singer from France born in the 1880s described by a Wikipedia article in French](https://kbnlwikimedia.github.io/GLAMorousToHTML/extras/delpher_humans_q5_gallery.html?page=1&sort=name_asc&country=Q142&gender=Q6581072&occ=Q2865819&dob=1880&pc=fr).<br/>
 
-## [Wikimedia Commons copyright template extractor](https://kbnlwikimedia.github.io/wikimedia-commons_copyright-templates/)
+### [Wikimedia Commons copyright template extractor](https://kbnlwikimedia.github.io/wikimedia-commons_copyright-templates/)
 Identifies public domain (PD) or PD-like (Creative Commons) license templates in Wikimedia Commons files, alongside simplified creation/publication dates.
 * [Github repo](https://github.com/KBNLwikimedia/wikimedia-commons_copyright-templates/)
 * Story: [Free to use? Exploring public domain claims in Wikimedia Commons files sourced from Delpher](https://kbnlwikimedia.github.io/wikimedia-commons_copyright-templates/stories/Free%20to%20use%20-%20Exploring%20public%20domain%20claims%20in%20Wikimedia%20Commons%20files%20sourced%20from%20Delpher.html) (June 2025)
 
-## [Wikimedia Commons structured data tools](https://github.com/KBNLwikimedia/SDoC)
+### [Wikimedia Commons structured data tools](https://github.com/KBNLwikimedia/SDoC)
 Code, scripts and stories about dealing with [structured data](https://commons.wikimedia.org/wiki/Commons:Structured_data) for KB files on Wikimedia Commons.
 
 More info about [Structured Data on Commons efforts](https://commons.wikimedia.org/wiki/Commons:Koninklijke_Bibliotheek/SDoC) of the KB.
 
-### - [Wikimedia Commons category Depicts (P180) extractor](https://github.com/KBNLwikimedia/SDoC/tree/main/wmc-category-depicts-extractor)
+#### - [Wikimedia Commons category Depicts (P180) extractor](https://github.com/KBNLwikimedia/SDoC/tree/main/wmc-category-depicts-extractor)
 Lists all things depicted in all images in a Wikimedia Commons category 
 * [Github repo](https://github.com/KBNLwikimedia/SDoC/tree/main/wmc-category-depicts-extractor)
 
-### - [WriteSDoCfromExcel](https://github.com/KBNLwikimedia/SDoC/tree/main/writeSDoCfromExcel)
+#### - [WriteSDoCfromExcel](https://github.com/KBNLwikimedia/SDoC/tree/main/writeSDoCfromExcel)
 Adds Wikidata QIDs to the structured data for one or more properties (e.g., **P180 – depicts**, **P170 – creator**) on Wikimedia Commons files from an Excel sheet.
 * [Github repo](https://github.com/KBNLwikimedia/SDoC/tree/main/writeSDoCfromExcel)
 * [Tool page on Commons](https://commons.wikimedia.org/wiki/Commons:WriteSDoCfromExcel)
 
-### - [Delpher-Commons structured data tools](https://github.com/KBNLwikimedia/SDoC/tree/main/delpher-urls-from-wikitext-to-sdc) - TO UPDATE!!
+#### - [Delpher-Commons structured data tools](https://github.com/KBNLwikimedia/SDoC/tree/main/delpher-urls-from-wikitext-to-sdc) - TO UPDATE!!
 Tools to add, update, improve an manage structured data for [Delpher files on Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Media_from_Delpher)
 * [Github repo](https://github.com/KBNLwikimedia/SDoC/tree/main/delpher-urls-from-wikitext-to-sdc)
   - To add: extract-delpher-urls-from-wikitext.py
   - To add: add-delpher-urls-to-sdc.py
 
-### - [dict2sdc](https://github.com/KBNLwikimedia/SDoC/tree/main/dict2sdc)
+#### - [dict2sdc](https://github.com/KBNLwikimedia/SDoC/tree/main/dict2sdc)
 Import [structured data](https://commons.wikimedia.org/wiki/Commons:Structured_data) to Wikimedia Commons using [Pywikibot](https://www.mediawiki.org/wiki/Manual:Pywikibot). Read data from a dict.csv file and add it as structured data to Wikimedia Commons.
 * [Github repo](https://github.com/KBNLwikimedia/SDoC/tree/main/dict2sdc)
-
 
 ## [WikimediaKBURLReplacement](https://kbnlwikimedia.github.io/WikimediaKBURLReplacement/)
 Code, scripts and stories about replacing outdated or non-persistent URLs of KB services in Wikipedia, Wikimedia Commons and Wikidata
