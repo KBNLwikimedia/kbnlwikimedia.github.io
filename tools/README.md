@@ -56,17 +56,19 @@ Tools to add, update, improve an manage structured data for [Delpher files on Wi
 Import [structured data](https://commons.wikimedia.org/wiki/Commons:Structured_data) to Wikimedia Commons using [Pywikibot](https://www.mediawiki.org/wiki/Manual:Pywikibot). Read data from a dict.csv file and add it as structured data to Wikimedia Commons.
 * [Github repo](https://github.com/KBNLwikimedia/SDoC/tree/main/dict2sdc)
 
-## [WikimediaKBURLReplacement](https://kbnlwikimedia.github.io/WikimediaKBURLReplacement/)
+## Other Wikimedia tools
+
+### [WikimediaKBURLReplacement](https://kbnlwikimedia.github.io/WikimediaKBURLReplacement/)
 Code, scripts and stories about replacing outdated or non-persistent URLs of KB services in Wikipedia, Wikimedia Commons and Wikidata
 * [Github repo](https://github.com/KBNLwikimedia/WikimediaKBURLReplacement)
 * Story: [Making references to Dutch newspapers in Wikipedia more sustainable](https://kbnlwikimedia.github.io/WikimediaKBURLReplacement/stories/Making%20references%20to%20Dutch%20newspapers%20in%20Wikipedia%20more%20sustainable.html)
 
-## [OpenRefine-Wikibase](https://github.com/KBNLwikimedia/OpenRefine-Wikibase)
+### [OpenRefine-Wikibase](https://github.com/KBNLwikimedia/OpenRefine-Wikibase)
 Files for interaction between OpenRefine and KB Wikibases, for reconciling and uploading data to Wikibases of the KB, using Openfine 
 * [Github repo](https://github.com/KBNLwikimedia/OpenRefine-Wikibase)
 * Relevant presentation: [Setting up your own Wikibase reconciliation service (e.g. for OpenRefine)](https://zenodo.org/record/10078805) (Zenodo, november 2023)
 
-## [wikipedia-utilities](https://github.com/KBNLwikimedia/wikipedia-utils)
+### [wikipedia-utilities](https://github.com/KBNLwikimedia/wikipedia-utils)
 Utility scripts for working with Wikipedia data dumps 
 * [Github repo](https://github.com/KBNLwikimedia/wikipedia-utils)
 
