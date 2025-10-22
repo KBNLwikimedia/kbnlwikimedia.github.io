@@ -27,13 +27,17 @@ Creates a datestamped HTML report and a corresponding Excel file listing all Wik
 Prototype: [Wikipedia ❤️ Delpher - Portrait explorer](https://kbnlwikimedia.github.io/GLAMorousToHTML/extras/delpher_humans_q5_gallery.html), a visual exploration of notable individuals in Wikipedia, illustrated by Delpher.<br/>
  It allows you to explore humans who are described in Wikipedia articles illustrated by [Delpher images](https://commons.wikimedia.org/wiki/Category:Media_from_Delpher). You can do so by occupation, gender, country of citizenship, decades of birth and death and Wikipedia language version. For instance: a [female opera singer from France born in the 1880s described by a Wikipedia article in French](https://kbnlwikimedia.github.io/GLAMorousToHTML/extras/delpher_humans_q5_gallery.html?page=1&sort=name_asc&country=Q142&gender=Q6581072&occ=Q2865819&dob=1880&pc=fr).<br/>
 
-### Wikimedia Commons file downloaders
+### [Wikimedia Commons metadata downloader](https://github.com/KBNLwikimedia/wikimedia-various-tools/tree/main/wmc-metadata-downloader)
+Collect metadata from Wikimedia Commons files and write them into an Excel sheet — safely, in chunks, and with per-file JSON snapshots.
+* [Github repo](https://github.com/KBNLwikimedia/wikimedia-various-tools/tree/main/wmc-metadata-downloader)
+
+### [Wikimedia Commons file downloaders]()
 Download files from Wikimedia Commons in a given category (tree) or from an Excel sheet with file titles.
 * [Github repo](....)
  
-### Wikimedia Commons metadata downloader
-Downloads metadata of Wikimedia Commons files in a given category (tree).
-* [Github repo](....)
+### [Wikimedia Commons MediaInfo identifiers (M-IDs)](...wmc-url-mid-excel-extractor)
+Adds Wikimedia Commons MediaInfo identifiers (M-IDs) to an Excel list of file URLs
+* [Github repo](.wmc-url-mid-excel-extractor/...)
 
 ### [Wikimedia Commons copyright template extractor](https://kbnlwikimedia.github.io/wikimedia-commons_copyright-templates/)
 Identifies public domain (PD) or PD-like (Creative Commons) license templates in Wikimedia Commons files, alongside simplified creation/publication dates.
