@@ -28,7 +28,7 @@ Prototype: [Wikipedia ❤️ Delpher - Portrait explorer](https://kbnlwikimedia.
  It allows you to explore humans who are described in Wikipedia articles illustrated by [Delpher images](https://commons.wikimedia.org/wiki/Category:Media_from_Delpher). You can do so by occupation, gender, country of citizenship, decades of birth and death and Wikipedia language version. For instance: a [female opera singer from France born in the 1880s described by a Wikipedia article in French](https://kbnlwikimedia.github.io/GLAMorousToHTML/extras/delpher_humans_q5_gallery.html?page=1&sort=name_asc&country=Q142&gender=Q6581072&occ=Q2865819&dob=1880&pc=fr).<br/>
 
 ### [Wikimedia Commons metadata downloader](https://github.com/KBNLwikimedia/wikimedia-various-tools/tree/main/wmc-metadata-downloader)
-Collect metadata from Wikimedia Commons files and write them into an Excel sheet — safely, in chunks, and with per-file JSON snapshots.
+Collect metadata from Wikimedia Commons files or categories and write them into an Excel sheet — safely, in chunks, and with per-file JSON snapshots.
 * [Github repo](https://github.com/KBNLwikimedia/wikimedia-various-tools/tree/main/wmc-metadata-downloader)
 
 ### [Wikimedia Commons file downloaders]()
