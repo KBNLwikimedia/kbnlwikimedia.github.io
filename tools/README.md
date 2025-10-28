@@ -27,17 +27,17 @@ Creates a datestamped HTML report and a corresponding Excel file listing all Wik
 Prototype: [Wikipedia ❤️ Delpher - Portrait explorer](https://kbnlwikimedia.github.io/GLAMorousToHTML/extras/delpher_humans_q5_gallery.html), a visual exploration of notable individuals in Wikipedia, illustrated by Delpher.<br/>
  It allows you to explore humans who are described in Wikipedia articles illustrated by [Delpher images](https://commons.wikimedia.org/wiki/Category:Media_from_Delpher). You can do so by occupation, gender, country of citizenship, decades of birth and death and Wikipedia language version. For instance: a [female opera singer from France born in the 1880s described by a Wikipedia article in French](https://kbnlwikimedia.github.io/GLAMorousToHTML/extras/delpher_humans_q5_gallery.html?page=1&sort=name_asc&country=Q142&gender=Q6581072&occ=Q2865819&dob=1880&pc=fr).<br/>
 
-### [Wikimedia Commons metadata downloader](https://github.com/KBNLwikimedia/wikimedia-various-tools/tree/main/wmc-metadata-downloader)
+### [Wikimedia Commons File Metadata Downloader](https://github.com/KBNLwikimedia/wikimedia-various-tools/tree/main/wmc-metadata-downloader)
 Collect metadata from Wikimedia Commons files or categories and write them into an Excel sheet — safely, in chunks, and with per-file JSON snapshots.
 * [Github repo](https://github.com/KBNLwikimedia/wikimedia-various-tools/tree/main/wmc-metadata-downloader)
 
-### [Wikimedia Commons file downloaders]()
-Download files from Wikimedia Commons in a given category (tree) or from an Excel sheet with file titles.
-* [Github repo](....)
- 
-### [Wikimedia Commons MediaInfo identifiers (M-IDs)](...wmc-url-mid-excel-extractor)
-Adds Wikimedia Commons MediaInfo identifiers (M-IDs) to an Excel list of file URLs
-* [Github repo](.wmc-url-mid-excel-extractor/...)
+### [Wikimedia Commons File Downloader](https://github.com/KBNLwikimedia/wikimedia-various-tools/tree/main/wmc-file-downloader)
+A robust, Windows-safe downloader for Wikimedia Commons files - Download Wikimedia Commons files by nested category tree or flat list, preview before downloading, slice a subset, use Windows-safe unique filenames, and log to Excel.
+* [Github repo](https://github.com/KBNLwikimedia/wikimedia-various-tools/tree/main/wmc-file-downloader)
+
+### [Wikimedia Commons URL M-ID Excel Extractor](https://github.com/KBNLwikimedia/wikimedia-various-tools/tree/main/wmc-url-mid-excel-extractor)
+Reads a Wikimedia Commons FileURL column from an Excel sheet, looks up the corresponding MediaInfo entity IDs (M-IDs), and writes the results back into the same Excel workbook.
+* [Github repo](https://github.com/KBNLwikimedia/wikimedia-various-tools/tree/main/wmc-url-mid-excel-extractor)
 
 ### [Wikimedia Commons copyright template extractor](https://kbnlwikimedia.github.io/wikimedia-commons_copyright-templates/)
 Identifies public domain (PD) or PD-like (Creative Commons) license templates in Wikimedia Commons files, alongside simplified creation/publication dates.
@@ -86,9 +86,14 @@ Utility scripts for working with Wikipedia data dumps
 
 ## Non-Wikimedia tools, but still handy
 
-### http status checker - NOG AANMAKWEN
-Check the HTTP status codes of a list of URLs. Useful for identifying broken links or verifying the accessibility of web resources.
+### TO ADD: [General File Downloader](xxxx)
+A simple tool for quickly downloading non-Wikimedia Commons files
 * [Github repo](...)
+
+### TO ADD: [URL http status checker](...)
+Checks the HTTP status codes of a list of URLs, with support for retries, timeouts, and detailed logging. Works for all URLs, not necessarily Wikimedia-related URLs.
+* [Github repo](...)
+
 
 ### [SaveToWaybackMachine](https://github.com/ookgezellig/SaveToWaybackMachine)
 Saving URLs of webpages of the KB in bulk to the Wayback Machine of The Internet Archive. Some websites managed by the KB, national library of the Netherlands, have been or will be discontinued. To preserve the content of these sites (e.g. for sourcing Wikipedia articles or cultural heritage preservation purposes) the KB actively submits websites to the The Wayback Machine [web.archive.org](https://web.archive.org/).
